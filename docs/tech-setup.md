@@ -3,7 +3,7 @@
 ## Recommendation: Astro
 - Built for content sites. It ships zero JavaScript by default, so pages load fast.
 - Pages are written in Markdown, so `content/website-content.md` maps straight onto pages.
-- Markdown footnotes (`[^id]`) render as numbered citations out of the box.
+- Inline citations are plain Markdown links; a small component can show a hover card with the full reference.
 - Built-in i18n routing lets us add a **Punjabi (Gurmukhi)** version later, which matters for many Canadian Sikh readers.
 - There's an official GitHub Action for deploying to GitHub Pages.
 

@@ -3,7 +3,7 @@
 Nothing on the site is published until every box is ticked.
 
 ## Editorial rules
-1. Every factual claim has a footnote that points to a primary or authoritative source.
+1. Every factual claim has an **inline citation** right in the sentence, e.g. "(Poore & Nemecek, *Science*, 2018)", linked to the source, plus a full entry in the Sources list. Where it reads naturally, name the source in the sentence itself ("Health Canada recommends…").
 2. No mention of any existing religious or community practice.
 3. Informational tone only: describe, don't prescribe or judge.
 4. Gurmukhi is **copy-pasted** from BaniDB / SikhiToTheMax, never retyped.
