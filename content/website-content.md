@@ -1,16 +1,19 @@
-# Living Daya — Website Content (v3)
+# Living Daya — Website Content (v4)
 
 <!--
 EDITORIAL NOTES (not for publication)
-- Audience: Sikhs in Canada, most of whom are already lacto-vegetarian.
+- Audience: Sikhs in Canada, many of whom are already lacto-vegetarian.
 - Tone: informational. Present facts and let readers draw their own conclusions.
   No instructions ("you must"), no judgement of anyone.
 - The site does NOT mention any existing religious or community practice.
-- Every factual claim carries an INLINE citation (Author/Org, Year) linked to the source,
-  plus a full entry in the Sources list. Citations marked 🔎 still need a
-  person to check them against the primary source (see docs/verification-checklist.md).
-- Gurmukhi must be copied from BaniDB / SikhiToTheMax before publishing, never retyped.
-  English renderings are working translations; name the translation source when published.
+- Every factual claim carries an INLINE citation (Author/Org, Year) linked to the
+  source, plus a full entry in the Sources list at the bottom.
+- v4 (Oct 2026): every claim was checked against its source through web search.
+  Claims that couldn't be confirmed were removed or reworded. See
+  docs/verification-checklist.md for how each one was checked and what a person
+  still needs to confirm before launch.
+- Gurmukhi must be copy-pasted from BaniDB / SikhiToTheMax before publishing.
+  English renderings are working translations until a translation source is chosen.
 -->
 
 ---
@@ -21,38 +24,37 @@ EDITORIAL NOTES (not for publication)
 ### Compassion, carried into everyday life
 
 > ਧੌਲੁ ਧਰਮੁ ਦਇਆ ਕਾ ਪੂਤੁ ॥
-> *"Dharma, the bull that holds up the world, is the son of compassion."*
-> — Guru Nanak Dev Ji, Japji Sahib, Sri Guru Granth Sahib Ji, Ang 3
+> *"The mythical bull is Dharma, the son of compassion."*
+> — Guru Nanak Dev Ji, Japji Sahib (Pauri 16), Sri Guru Granth Sahib Ji, Ang 3
 
-Gurbani teaches that the One Light shines in every living being, and it places
-**Daya**, compassion, at the root of righteous living. Every day, Sikhs pray for
-**Sarbat da Bhala**, the well-being of all.
+Gurbani places **Daya**, compassion, at the root of Dharma, and speaks of the One
+Light present in every being. Sikhs hold the ideal of **Sarbat da Bhala**, the
+well-being of all.
 
-Most of us already choose not to eat meat. This site asks the next question: **what
-does it take to produce the milk, dahi, paneer, ghee and honey on our tables?**
+Many Sikhs already choose not to eat meat. In a 2021 survey of India, 59% of Sikhs
+identified as vegetarian ([Pew Research Center, 2021](https://www.pewresearch.org/religion/2021/06/29/religion-and-food/)).
+This site asks the next question: **what does it take to produce the milk, dahi,
+paneer, ghee and honey on our tables?**
 
 Here you'll find:
 - **Gurbani on compassion**: verses on Daya and on the Divine in all beings.
 - **How dairy and honey are produced**: what happens on modern commercial farms, mostly in Canada.
-- **The environment**: what different foods cost the land, water and climate.
+- **The environment**: what different foods cost the land and the climate.
 - **Health**: what nutrition research says, common myths, and plant-based swaps for familiar foods.
 
-We don't tell anyone what to eat. We share what we've learned, with sources for
-every claim, so you can reflect and decide for yourself.
+We don't tell anyone what to eat. We share what we've learned, with a source for
+every fact, so you can reflect and decide for yourself.
 
 ---
 
 ## Page 2 — Gurbani on Daya
 
-Gurbani doesn't treat compassion as a feeling that comes and goes. It treats it as
-the foundation of a spiritual life.
-
 ### Compassion as the foundation of Dharma
 > ਧੌਲੁ ਧਰਮੁ ਦਇਆ ਕਾ ਪੂਤੁ ॥
 > ਸੰਤੋਖੁ ਥਾਪਿ ਰਖਿਆ ਜਿਨਿ ਸੂਤਿ ॥
 >
-> *"The mythical bull is Dharma, the son of compassion; it is contentment that
-> patiently holds the earth in its place."*
+> *"The mythical bull is Dharma, the son of compassion; this is what patiently
+> holds the earth in its place."*
 > — Guru Nanak Dev Ji, Japji Sahib (Pauri 16), Ang 3
 
 ### The sacred thread of the soul
@@ -74,13 +76,13 @@ the foundation of a spiritual life.
 >
 > *"Within all is the Light — You are that Light. By that Light, all are
 > illuminated."*
-> — Guru Nanak Dev Ji, Raag Dhanasari (Sohila), Ang 13
+> — Guru Nanak Dev Ji, Raag Dhanasari (Aarti), Ang 663
 
 ### One Giver of all beings
 > ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ ਸੋ ਮੈ ਵਿਸਰਿ ਨ ਜਾਈ ॥
 >
 > *"There is One Giver of all living beings; may I never forget Him."*
-> — Guru Nanak Dev Ji, Japji Sahib, Ang 2
+> — Guru Nanak Dev Ji, Japji Sahib (Pauri 5), Ang 2
 
 ### If God is in all, why kill?
 > ਜਉ ਸਭ ਮਹਿ ਏਕੁ ਖੁਦਾਇ ਕਹਤ ਹਉ ਤਉ ਕਿਉ ਮੁਰਗੀ ਮਾਰੈ ॥੧॥
@@ -108,92 +110,117 @@ each of us to reflect on.
 
 Milk, dahi, paneer, butter, ghee, cheese, cream and khoya all come from the same
 source: a cow that has given birth. This page describes how commercial dairy
-farming works in Canada.
+farming works, with a focus on Canada.
 
 ### A cow gives milk because she has had a calf
-Like all mammals, a cow produces milk after she gives birth, to feed her young ([NFACC Dairy Code of Practice, 2023](https://www.nfacc.ca/codes-of-practice/dairy-cattle)).
-To keep milk flowing, dairy cows are bred again and again. In Canada a heifer
-typically has her first calf at about two years old, and is bred again within
-months of each birth (AAFC Canadian Dairy Information Centre). 🔎 Most breeding on Canadian dairy farms is by
-artificial insemination (AAFC Canadian Dairy Information Centre). 🔎
+A cow must give birth before she produces milk. She is milked for about ten months
+and then has a two-month "dry" period before her next calf is born
+([BC SPCA](https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/)).
+On a typical Canadian dairy farm, a cow has her first calf at about **25 months**
+old, and then a calf about every **13 to 14 months**
+([Lactanet, 2019](https://lactanet.ca/wp-content/uploads/2021/03/2019-management-benchmarks-all-canada-free-stall-tie-stall-robot-organic.pdf)).
+Most Canadian dairy cows are bred by artificial insemination, at least 75% by a
+2003 estimate (Van Doormaal & Kistemaker, Canadian Journal of Animal Science, 2003).
 
 ### Mother and calf are separated
-On commercial dairy farms the calf is usually taken from its mother soon after
-birth, often within hours, and raised separately on milk replacer or bottled milk,
-so that the cow's milk can be sold (Beaver et al., J Dairy Sci, 2019). 🔎 Canada's national *Code of
-Practice for the Care and Handling of Dairy Cattle* (2023) permits this
-practice ([NFACC Dairy Code of Practice, 2023](https://www.nfacc.ca/codes-of-practice/dairy-cattle)). Research reviews have found that cows and calves form a bond
-quickly after birth (Beaver et al., J Dairy Sci, 2019). 🔎
+On many commercial dairy farms, the calf is routinely taken from its mother within
+24 hours of birth (Beaver et al., Journal of Dairy Science, 2019). In Canada, cow
+and calf are usually separated a few hours after birth
+([BC SPCA](https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/)).
 
-### What happens to male calves
-Male calves can never produce milk. In Canada most are sold off the dairy farm
-within their first days of life ([Frontiers in Animal Science, 2022](https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2022.1000897)) and raised for **veal** or beef.
-Ontario's veal marketing regulation defines veal cattle mainly as male calves of
-dairy breeds ([Ontario Reg. 58/15](https://www.ontario.ca/laws/regulation/150058)). Ontario, Canada's second-largest veal producer, raises
-around **70,000 veal calves** a year ([Government of Ontario](https://www.ontario.ca/page/veal-farming)). Some male calves are killed on the
-dairy farm shortly after birth because raising them doesn't pay ([Frontiers in Animal Science, 2022](https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2022.1000897)). 🔎
+Two scientific reviews from the University of British Columbia looked at this
+practice. They found that the research provides **no consistent evidence that
+early separation benefits cow or calf health** (Beaver et al., Journal of Dairy
+Science, 2019). They also found that longer cow–calf contact generally benefits
+calves, giving them more normal social behaviour and less abnormal behaviour
+(Meagher et al., Journal of Dairy Science, 2019).
+
+### What happens to the calves
+- **Male calves.** Canadian dairy farms produce several hundred thousand male
+  calves each year. Most are sold to specialized veal or calf-raising farms, and
+  most leave the dairy farm before they are a week old
+  ([National Farm Animal Health and Welfare Council, 2019](https://www.ahwcouncil.ca/pdfs/NFAHWC%202019%20Male%20dairy%20calf%20marketing%20recommendations%20July%2023.pdf);
+  [The Western Producer, 2019](https://www.producer.com/2019/12/dairy-calves-slip-through-transport-code-cracks)).
+  Ontario's veal regulation defines veal cattle mainly as male calves of dairy
+  breeds ([Ontario Reg. 58/15](https://www.ontario.ca/laws/regulation/150058)).
+  Ontario, Canada's second-largest veal producer, raises about **70,000 veal
+  calves** a year ([Government of Ontario](https://www.ontario.ca/page/veal-farming)).
+- **Some are killed at birth.** In a national survey of 1,025 Canadian dairy
+  farms, 5% reported euthanizing at least one male calf at birth in the previous
+  year. Blunt force trauma was a commonly used method (Renaud et al., Journal of
+  Dairy Science, 2017).
+- **Beef-cross calves.** Canadian dairy farmers increasingly breed cows with beef
+  semen. In 2023 it was used on 29% of Holsteins, 25% of Jerseys and 39% of
+  Ayrshires. The resulting calves are raised for beef
+  ([Lactanet](https://lactanet.ca/en/how-beef-semen-is-reshaping-dairy-herds/)).
 
 ### What happens to the mothers
-A dairy cow is kept only as long as she stays productive. Among Canadian
-Holsteins, only about **31%** of cows reach their fourth calving ([Canadian Dairy Network](https://cdn.ca/document.php?id=162)). 🔎
-The most common recorded reasons for culling in Canada are reproductive problems
-(failing to get pregnant again), mastitis (udder infection), and low milk
-production ([AAFC Canadian Dairy Information Centre](https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement)). Culled dairy cows are sent to slaughter, and their meat
-enters the beef supply ([AAFC Canadian Dairy Information Centre](https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement)). 🔎 A cow's natural lifespan is much longer,
-commonly around 20 years (source needed). 🔎
+Canadian dairy herds remove about **30%** of their cows every year
+([Dairy Farmers of Canada](https://www.dairyfarmers.ca/Media/Files/proaction/What_Do_We_Know_About_Cull_Cows_in_Canada.pdf)).
+In 2024 the national culling rate was **27.9%**. The leading recorded reasons were
+reproductive problems (the cow failing to get pregnant again), mastitis (udder
+infection) and low milk production
+([Agriculture and Agri-Food Canada, 2025](https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement)).
+Culled cows are sold through auctions or sent directly to slaughter. On the way
+they can travel as far as **4,500 km** and spend up to **7–10 days** in transit
+([Dairy Farmers of Canada](https://www.dairyfarmers.ca/Media/Files/proaction/Cull_Cows_in_Canada_Why_Are_They_Important_and_What_Can_We_Do.pdf)).
 
-### Dairy and meat are connected
-Put together:
-- every glass of milk depends on a cow becoming pregnant;
-- about half of the calves born are male and are raised for meat or killed young;
-- the cows themselves are slaughtered once their milk yield falls.
-
-The dairy and beef/veal industries are economically linked. One supplies animals
-to the other.
+Researchers note that the natural lifespan of cattle is about **20 years**. Dairy
+cows, by contrast, live on average about **3 years after their first calving**
+(US data; [ADSA Annual Meeting abstract, 2019](https://m.adsa.org/2019/abs/t/79446)).
 
 ### Animal products that are easy to miss
-Some foods that seem vegetarian contain ingredients taken from slaughtered animals
-or insects:
-- **Animal rennet.** This is an enzyme from the stomach lining of young calves,
-  used to make many cheeses. Some traditional cheeses (e.g. Parmigiano Reggiano)
-  must use calf rennet under their protected-origin rules (Consorzio Parmigiano Reggiano). 🔎
-- **Gelatin** is made from the skin and bones of cattle and pigs. It's found in
-  gummies, marshmallows, some yoghurts and capsules (source needed). 🔎
-- **Whey and casein** are dairy proteins used in protein powders, baked goods and
-  snacks.
-- **Carmine (cochineal)** is a red colour made from crushed insects (source needed). 🔎
-- **Shellac (confectioner's glaze)** is a coating made from secretions of the lac
-  insect (source needed). 🔎
+- **Animal rennet** comes from the stomach of cud-chewing animals such as cows and
+  is used to make cheese ([Britannica](https://www.britannica.com/science/rennin)).
+  Authentic Parmigiano Reggiano is made from only three ingredients: milk, salt
+  and **calf rennet** ([Consorzio del Formaggio Parmigiano Reggiano, 2026](https://backend.parmigianoreggiano.com/uploads/Guidelines_ENG_REV_02_2026_4ee9d71975.pdf)).
+- **Gelatin** is made from collagen in the skins, bones and connective tissue of
+  animals such as cows, pigs and fish ([EBSCO Research Starters](https://www.ebsco.com/research-starters/chemistry/gelatin)).
+- **Carmine (cochineal)** is a red colour made from the dried, ground bodies of
+  female cochineal insects ([US Federal Register, 2006](https://www.govinfo.gov/link/fr/71/4847)).
+- **Shellac** is a resin made from the secretions of the lac insect
+  ([Britannica](https://www.britannica.com/topic/shellac)).
 
 ---
 
 ## Page 4 — Honey: The Bees' Winter Food
 
-Honeybees make honey from nectar and store it as their food for winter ([Ontario Beekeepers' Association](https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf)).
+Honeybees rely on stored honey to survive the winter, and lack of food is one of
+the leading causes of winter colony deaths
+([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/publication/IN1006)).
 
 ### How commercial honey is produced
-- **Honey is taken and replaced with sugar.** Beekeepers remove the honey supers in
-  late summer and feed colonies sugar syrup so they can survive winter. A 2025
-  study notes that in Canada, beekeepers must feed colonies sugar in the fall to
-  make sure they survive ([Ontario Beekeepers' Association](https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf); APIS, 2025). 🔎
-- **Colonies are moved for pollination.** In Canada many colonies are trucked to
-  crops such as blueberries and hybrid canola seed and rented out for pollination
-  services (AAFC). 🔎
+- **Honey is taken and replaced with sugar.** Beekeepers start feeding colonies
+  once the honey boxes ("supers") have been removed
+  ([Ontario Beekeepers' Association](https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf)).
+  The fall feed is sugar syrup, which the bees store as a substitute for honey
+  ([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/publication/IN1006)).
+  Conventional sugar syrup is the standard overwintering feed in Canada
+  ([Rousseau & Plamondon, Apis, 2025](https://ojs.mtak.hu/index.php/Apis/article/view/21251)).
+- **Colonies are rented for pollination.** Honey bee pollination added about
+  **$3.18 billion** to the value of Canadian harvests in 2021
+  ([Agriculture and Agri-Food Canada, 2026](https://agriculture.canada.ca/en/sector/horticulture/reports/statistical-overview-canadian-honey-and-bee-industry-2025)).
+  Hybrid canola seed production in Alberta alone requires about **80,000
+  colonies**. Many commercial beekeepers in eastern Canada and British Columbia
+  provide pollination services, particularly for blueberries and apples
+  ([Canadian Honey Council](https://honeycouncil.ca/?p=98)).
 - **Colony losses are high.** In the winter of 2023–24, Canadian beekeepers lost
-  **34.6%** of their colonies nationally, with provincial losses ranging from 9.8% to
-  61.3% ([CAPA, 2024](https://capabees.com/shared/CAPA-Statement-on-Colony-Losses-2023-2024_FV.pdf)). Losses have many causes, including varroa mites, weather and
-  queen problems ([CAPA, 2024](https://capabees.com/shared/CAPA-Statement-on-Colony-Losses-2023-2024_FV.pdf)).
+  **34.6%** of their colonies nationally, with provincial losses ranging from 9.8%
+  to 61.3% ([CAPA, 2024](https://capabees.com/shared/CAPA-Statement-on-Colony-Losses-2023-2024_FV.pdf)).
 
 ### Honeybees and wild bees
-The Western honeybee is a managed, domesticated species. Scientists writing in
-*Science* argue that high densities of managed honeybees can harm wild pollinators
-by competing with them for flowers and spreading disease, and that "conserving
-honey bees does not help wildlife" ([Geldmann & González-Varo, Science, 2018](https://doi.org/10.1126/science.aar2269)). Canada is home to hundreds of
-native bee species (source needed). 🔎
+Scientists writing in *Science* describe the Western honeybee as a commercially
+managed species. They warn that high densities of managed honeybees can harm wild
+pollinators by competing with them for resources and spreading disease, and that
+"conserving honey bees does not help wildlife"
+([Geldmann & González-Varo, Science, 2018](https://doi.org/10.1126/science.aar2269)).
+Canada is home to more than **800** species of native bees
+([Nature Conservancy of Canada](https://storymaps.arcgis.com/stories/a11d3d40bec84cb6bb5ded9053863b61)).
 
 ### Honey and health
-Health Canada counts honey as a source of **free sugars**, along with syrups and
-table sugar, and recommends limiting free sugars (Canada's Food Guide). 🔎
+Health Canada counts the sugars in honey and syrups as **free sugars**, and Canada's
+dietary guidelines recommend limiting foods and drinks that contribute excess free
+sugars ([Health Canada, Canada's Dietary Guidelines](https://www.canada.ca/en/health-canada/services/food-guide/explore/dietary-guidelines/section-2-foods-beverages-that-undermine-healthy-eating.html)).
 
 ---
 
@@ -203,14 +230,7 @@ table sugar, and recommends limiting free sugars (Canada's Food Guide). 🔎
 > *"Air is the Guru, water is the father, and the great earth is the mother."*
 > — Guru Nanak Dev Ji, Japji Sahib (Salok), Ang 8
 
-> ਬਲਿਹਾਰੀ ਕੁਦਰਤਿ ਵਸਿਆ ॥ ਤੇਰਾ ਅੰਤੁ ਨ ਜਾਈ ਲਖਿਆ ॥
-> *"I am a sacrifice to You, who dwells in Your creation; Your limits cannot be
-> known."*
-> — Guru Nanak Dev Ji, Asa Ki Vaar, Ang 469 🔎
-
-Sikhs close the daily Ardas by asking for *Sarbat da Bhala*, the good of all.
-Here is what research shows about the effect of different foods on the shared
-earth.
+Here is what research shows about how different foods affect the earth we share.
 
 ### Land
 Livestock farming, including land used to grow animal feed, takes up about **83%
@@ -220,10 +240,11 @@ the protein** people eat ([Poore & Nemecek, Science, 2018](https://doi.org/10.11
 ### Climate
 - The UN Food and Agriculture Organization estimates that livestock supply chains
   produce about **12% of all human-caused greenhouse gas emissions** (6.2 billion
-  tonnes CO₂-equivalent) ([FAO, 2023](https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/)). An earlier FAO estimate put the figure at
-  14.5% (FAO, 2013).
+  tonnes CO₂-equivalent) ([FAO, 2023](https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/)).
+  An earlier FAO estimate put the figure at 14.5% ([FAO, 2013](https://www.fao.org/4/i3437e/i3437e.pdf)).
 - **Cheese has a higher climate footprint per kilogram than chicken or pork.**
-  Average global emissions per kg of food ([Our World in Data; Poore & Nemecek, 2018](https://ourworldindata.org/grapher/ghg-per-kg-poore)):
+  Average global emissions per kg of food
+  ([Our World in Data; Poore & Nemecek, 2018](https://ourworldindata.org/grapher/ghg-per-kg-poore)):
 
 | Food (per kg) | Greenhouse gas emissions (kg CO₂-eq) |
 |---|---|
@@ -233,26 +254,34 @@ the protein** people eat ([Poore & Nemecek, Science, 2018](https://doi.org/10.11
 | Tofu | 3.2 |
 
 ### Milk compared with plant milks
-Average global impact of producing **one litre** of each drink ([Our World in Data; Poore & Nemecek, 2018](https://ourworldindata.org/environmental-impact-milks)): 🔎
+Dairy milk has higher environmental impacts than every plant-based alternative
+studied (oat, soy, almond and rice) in every category measured: land use,
+greenhouse gas emissions, freshwater use and water pollution
+([Our World in Data](https://ourworldindata.org/environmental-impact-milks)).
+For one litre of each drink:
 
-| | Dairy milk | Soy | Oat | Almond |
-|---|---|---|---|---|
-| Emissions (kg CO₂-eq) | 3.2 | 1.0 | 0.9 | 0.7 |
-| Land (m²) | 9.0 | 0.7 | 0.8 | 0.5 |
-| Fresh water withdrawn (L) | 628 | 28 | 48 | 371 |
+| Per litre | Dairy milk | Soy | Oat |
+|---|---|---|---|
+| Emissions (kg CO₂-eq) | 3.15 | 0.98 | 0.90 |
+| Land (m²) | 8.95 | 0.66 | 0.76 |
+
+(Our World in Data, from Poore & Nemecek 2018, as tabulated by [Ethical Consumer](https://www.ethicalconsumer.org/food-drink/plant-based-milk-vs-dairy-climate-impacts))
 
 ### Whole diets
-A 2023 University of Oxford study followed the real diets of more than 55,000 people
-in the UK. **Every environmental measure rose as the amount of animal food in the
-diet rose.** Vegan diets produced about **25%** of the greenhouse gas emissions and
-used about **25%** of the land of high-meat diets ([Scarborough et al., Nature Food, 2023](https://doi.org/10.1038/s43016-023-00795-w)).
+A 2023 University of Oxford study linked the real diets of more than 55,000 people
+in the UK to the environmental footprint of their food. **Every environmental
+measure rose as the amount of animal food in the diet rose.** Vegan diets produced
+about **25%** of the greenhouse gas emissions and used about **25%** of the land of
+high-meat diets ([Scarborough et al., Nature Food, 2023](https://doi.org/10.1038/s43016-023-00795-w)).
 
 ### In Canada
-Agriculture accounted for about **7.9%** of Canada's greenhouse gas emissions in
-2023. That figure leaves out farm fuel and fertilizer manufacturing, which are
-counted in other sectors (Environment and Climate Change Canada, 2025). 🔎 Canada is also one of the world's largest
-producers and exporters of lentils and dry peas (Pulse Canada), 🔎 which are some of the
-lowest-impact protein foods available ([Poore & Nemecek, Science, 2018](https://doi.org/10.1126/science.aaq0216)).
+Agriculture produced **55 million tonnes** CO₂-equivalent in 2023, **7.9%** of
+Canada's total emissions (Environment and Climate Change Canada, National Inventory
+Report 2025, as reported by [The Advocate, 2025](https://qcna.qc.ca/?p=31283)).
+That figure doesn't include fossil fuel used on farms, which is reported under
+transportation ([Government of Manitoba](https://gov.mb.ca/agriculture/environment/climate-change/print,agriculture-and-climate-change.html)).
+Canada is also the world's leading producer and exporter of lentils
+([The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en/article/lentil)).
 
 ---
 
@@ -263,42 +292,57 @@ lowest-impact protein foods available ([Poore & Nemecek, Science, 2018](https://
 > pregnancy, childhood or illness.*
 
 ### What the experts say
-- The Academy of Nutrition and Dietetics, the world's largest organization of
-  nutrition professionals, states that appropriately planned vegetarian **including
-  vegan** diets are healthful, nutritionally adequate, may help prevent and treat
-  certain diseases, and are suitable at all stages of life and for
-  athletes ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
-- **Canada's Food Guide** (2019) recommends choosing plant-based protein foods
-  more often. Health Canada notes that these foods can provide more fibre and less
-  saturated fat, which benefits heart health. The guide lists fortified soy
-  beverage alongside tofu, beans and lentils as a protein food ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)).
+- The Academy of Nutrition and Dietetics states that appropriately planned
+  vegetarian **including vegan** diets are healthful and nutritionally adequate,
+  may help prevent and treat certain diseases, and suit all stages of life,
+  including pregnancy, childhood, older age and athletes. It also notes that
+  vegetarians and vegans have a lower risk of certain conditions, including
+  ischemic heart disease, type 2 diabetes, high blood pressure, certain cancers and
+  obesity ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
+- **Canada's Food Guide** recommends choosing plant-based protein foods more often.
+  Health Canada notes that these foods can provide more fibre and less saturated
+  fat, which benefits heart health. The guide lists fortified soy beverage, tofu,
+  beans and lentils among its protein foods
+  ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)).
 
 ### Why this matters for South Asian Canadians
-People of South Asian descent have a higher risk of type 2 diabetes and heart
-disease (Diabetes Canada; Heart & Stroke Foundation). 🔎 Research links healthy plant-based eating
-patterns with lower risk of both:
-- In a large analysis, closer adherence to plant-based diets was associated with
-  about a **23% lower risk of type 2 diabetes**, and the link was strongest for
-  diets built on healthy plant foods (Qian et al., JAMA Intern Med, 2019). 🔎
-- In the EPIC-Oxford study, vegetarians (including vegans) had a **22% lower risk
-  of coronary heart disease** than meat-eaters. The same study found a higher rate
-  of haemorrhagic stroke, which researchers are still investigating ([Tong et al., BMJ, 2019](https://doi.org/10.1136/bmj.l4897)).
+- South Asians in North America have **two to three times** the general
+  population's risk of type 2 diabetes, and are diagnosed at a younger age on
+  average ([Public Health Agency of Canada, 2018](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-38-no-7-8-2018/hpcdp-a3-38-7-8-eng.pdf)).
+- A review of 50 Canadian studies found that South Asian Canadians have higher
+  rates of cardiovascular disease than other Canadians
+  ([CMAJ Open, 2014](https://www.cmajopen.ca/content/2/3/E183)).
+
+Research links plant-based eating patterns with lower risk of both conditions:
+- In an analysis of 9 studies covering more than 300,000 people, those who most
+  closely followed plant-based diets had a **23% lower risk of type 2 diabetes**.
+  The link was stronger for diets built on healthy plant foods
+  ([Qian et al., JAMA Internal Medicine, 2019](https://doi.org/10.1001/jamainternmed.2019.2195)).
+- In the EPIC-Oxford study, which followed about 48,000 people for 18 years,
+  vegetarians (including vegans) had a **22% lower risk of coronary heart disease**
+  than meat-eaters. The same study found a 20% higher risk of stroke, mostly
+  haemorrhagic stroke, which the authors say needs further research
+  ([Tong et al., BMJ, 2019](https://doi.org/10.1136/bmj.l4897)).
 
 ### Nutrients to plan for
-A well-planned plant-based diet covers most nutrients easily. These need attention:
-- **Vitamin B12.** It is made by bacteria and found naturally only in animal
-  foods. Anyone eating only plant foods needs B12-fortified foods (fortified plant
-  beverages, nutritional yeast, cereals) or a supplement ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods); [NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/)).
-  **This is essential.**
-- **Vitamin D.** Health Canada advises everyone over 50 to take a 400 IU vitamin D
-  supplement daily. Canadian winters make sunlight an unreliable source (Health Canada). 🔎
-- **Calcium.** Choose calcium-fortified plant beverages, calcium-set tofu, and
-  leafy greens such as kale and bok choy (see the myth below) ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
-- **Iodine.** Use iodized salt in moderation ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
-- **Omega-3 fats.** Flax, chia, hemp seeds and walnuts provide ALA. Algae-based
-  DHA supplements are available ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
-- **Iron and zinc.** Eat legumes, whole grains, nuts and seeds. Vitamin C in the
-  same meal (lemon, tomato, amla) improves iron absorption ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
+- **Vitamin B12.** Plant foods contain no vitamin B12 unless they are fortified.
+  Fortified sources include some cereals, plant beverages and nutritional yeasts
+  ([NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/)).
+  Health Canada advises anyone eating only plant-based foods to include foods and
+  beverages fortified with B12
+  ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)).
+  Vegans need a reliable source, either fortified foods or a supplement
+  ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
+- **Vitamin D.** Health Canada advises adults aged 51 and over to take a daily
+  vitamin D supplement of 400 IU, whatever their diet
+  ([Canada's Food Guide](https://food-guide.canada.ca/en/applying-guidelines/advice-vitamin-mineral-supplementation)).
+- **Iron.** The body absorbs iron from plants less efficiently than iron from meat.
+  Eating foods rich in vitamin C at the same meal improves absorption
+  ([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/pdffiles/FS/FS16700.pdf)).
+- **Also worth attention:** calcium (see the myth below), zinc, iodine and omega-3
+  fats. Experts conclude that a well-planned vegetarian or vegan diet can meet the
+  recommendations for all of these, and that fortified foods or supplements can
+  help ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
 
 ---
 
@@ -306,164 +350,222 @@ A well-planned plant-based diet covers most nutrients easily. These need attenti
 
 ### Myth: "You can't get enough protein without meat or dairy."
 **The facts**
-- Legumes, nuts and seeds can fully meet adults' protein needs on vegetarian and
-  vegan diets. Concerns about amino-acid deficiency have been "substantially
-  overstated" ([Mariotti & Gardner, Nutrients, 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893534/)).
-- You don't need to combine proteins at every meal. A variety of plant foods
-  eaten over the course of a day supplies all the essential amino
-  acids ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)). 🔎
-- Familiar protein foods include dals and lentils, chana, rajma, tofu, tempeh, soy
-  chunks, edamame, peanuts, hemp seeds and seitan. Canada's Food Guide lists many
-  of these as protein foods ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)).
+- Protein-rich plant foods such as legumes, nuts and seeds can fully meet adults'
+  protein needs on vegetarian and vegan diets. Concerns about amino-acid deficiency
+  have been "substantially overstated"
+  ([Mariotti & Gardner, Nutrients, 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893534/)).
+- Mixtures of plant proteins can serve as a complete and well-balanced source of
+  amino acids ([Young & Pellett, American Journal of Clinical Nutrition, 1994](https://pubmed.ncbi.nlm.nih.gov/8172124/)).
+- Canada's Food Guide lists beans, lentils, tofu, fortified soy beverage, nuts and
+  seeds as protein foods. Dals, chana and rajma all count
+  ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)).
 - For those who do eat meat: the World Health Organization's cancer agency
   classifies processed meat as carcinogenic to humans (Group 1) and red meat as
-  probably carcinogenic (Group 2A) ([IARC; Bouvard et al., Lancet Oncology, 2015](https://doi.org/10.1016/S1470-2045(15)00444-1)).
+  probably carcinogenic (Group 2A)
+  ([IARC; Bouvard et al., Lancet Oncology, 2015](https://doi.org/10.1016/S1470-2045(15)00444-1)).
 
 **Strength athletes on plants**
-- **Patrik Baboumian**, strongman. In **Toronto** in 2013 he set a Guinness World
-  Record by carrying a 555 kg yoke over 10 metres ([Guinness World Records](https://guinnessworldrecords.com/world-records/110923-heaviest-yoke-carry-travelling-10-m)).
-- **Kendrick Farris**, three-time US Olympic weightlifter, vegan since 2014. In 2016
-  he set the US record total of 377 kg in the 94 kg class ([Quartz, 2016](https://qz.com/758648/kendrick-farris-vegan-weightlifter-rio-olympics-2016)).
-- **Nimai Delgado**, IFBB Pro bodybuilder. He was raised vegetarian, has never eaten
-  meat, and has been fully vegan since 2015 (source needed). 🔎
-- **Georges Laraque**, Canadian former NHL player (Edmonton Oilers, Montréal
-  Canadiens). Known as one of the league's toughest players, he went vegan in
-  2009 while still playing ([The Globe and Mail, 2009](https://www.theglobeandmail.com/sports/laraque-happy-to-veg-out/article4285607/)).
+- **Patrik Baboumian**, strongman. On 8 September 2013, at the Toronto Vegetarian
+  Food Festival, he set a Guinness World Record by carrying a 555.2 kg yoke over 10
+  metres ([Guinness World Records](https://guinnessworldrecords.com/world-records/110923-heaviest-yoke-carry-travelling-10-m)).
+- **Kendrick Farris**, three-time US Olympic weightlifter (2008, 2012, 2016)
+  ([Team USA](https://www.teamusa.com/profiles/kendrick-farris-811140)). He has been
+  vegan since 2014, and at the 2016 US Olympic Trials he set the American record
+  total of 377 kg in the 94 kg class
+  ([Quartz, 2016](https://qz.com/758648/kendrick-farris-vegan-weightlifter-rio-olympics-2016)).
+- **Nimai Delgado**, IFBB Pro bodybuilder. He was raised vegetarian, has never
+  eaten meat, and has been fully plant-based since 2015
+  ([The Rich Roll Podcast](https://richroll.com/podcast/nimai-delgado-385/)).
+- **Georges Laraque**, Canadian former NHL enforcer who played for Edmonton,
+  Phoenix, Pittsburgh and Montréal ([Wikipedia](https://en.wikipedia.org/wiki/Georges_Laraque)).
+  He went vegan on 1 June 2009, while still playing for the Canadiens
+  ([The Globe and Mail, 2009](https://www.theglobeandmail.com/sports/laraque-happy-to-veg-out/article4285607/)).
 
 ### Myth: "You need cow's milk for strong bones."
 **The facts**
-- Bones need **calcium**, **vitamin D**, **protein** and **weight-bearing
-  exercise**. Milk is one source of calcium, but not the only one ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)).
-- In large Harvard studies following over 96,000 adults for more than 22 years,
-  drinking more milk as a teenager did **not** lower women's risk of hip fracture
-  later in life. In men, each extra daily glass was associated with a 9% *higher*
-  risk, partly explained by height (Feskanich et al., JAMA Pediatrics, 2014).
-- In EPIC-Oxford, vegans who ate at least 525 mg of calcium a day had the **same**
-  fracture risk as meat-eaters. Vegans with low calcium intakes had a higher
-  risk ([Appleby et al., Eur J Clin Nutr, 2007](https://www.nature.com/articles/1602659)). **The lesson is that calcium matters, not where it comes from.**
-- Good plant sources include calcium-set tofu, calcium-fortified soy and oat
-  beverages, kale, bok choy, broccoli, tahini, almonds, chia seeds and dried figs.
-  Spinach contains calcium, but the body absorbs little of it ([Academy of Nutrition and Dietetics, 2016](https://doi.org/10.1016/j.jand.2016.09.025)). 🔎
+- In two large Harvard cohort studies of more than 96,000 adults followed for over
+  22 years, drinking more milk as a teenager did **not** lower women's risk of hip
+  fracture later in life. In men, each extra daily glass was linked to a 9%
+  *higher* risk, partly explained by height (Feskanich et al., JAMA Pediatrics,
+  2014).
+- In EPIC-Oxford, vegans who got at least 525 mg of calcium a day had the **same**
+  fracture risk as meat-eaters. Vegans' overall higher risk appeared to result
+  from their lower calcium intake
+  ([Appleby et al., European Journal of Clinical Nutrition, 2007](https://www.nature.com/articles/1602659)).
+  **What matters is getting enough calcium, not where it comes from.**
+- Plant calcium can be well absorbed:
+  - Calcium from **kale** was absorbed at least as well as calcium from milk
+    (about 41% vs 32%) ([Heaney & Weaver, American Journal of Clinical Nutrition, 1990](https://pubmed.ncbi.nlm.nih.gov/2321572/)).
+  - Firm **tofu made with calcium sulfate** contains about 680 mg of calcium per
+    100 g ([USDA FoodData Central](https://fdc.nal.usda.gov/food-details/172475/nutrients)).
+  - **Spinach** is an exception. Only about 5% of its calcium is absorbed,
+    compared with about 28% from milk
+    ([Heaney et al., American Journal of Clinical Nutrition, 1988](https://pubmed.ncbi.nlm.nih.gov/3354496/)).
 
 **Athletes who built strong bodies without dairy**
-- **Meagan Duhamel**, Canadian pairs figure skater. She has been vegan since 2008,
-  won two World Championships, and took Olympic gold in the team event at
-  PyeongChang 2018. Skating means repeatedly landing jumps and throws on
-  ice ([VegNews, 2018](https://vegnews.com/vegan-health-wellness/vegan-figure-skater-earns-olympic-gold-medal)).
-- **Dotsie Bausch**, US track cyclist. She won Olympic silver in team pursuit at
-  London 2012 after switching to a plant-based diet during her Olympic
-  training ([VegNews, 2012](https://vegnews.com/2012/7/olympic-athletes-thriving-on-vegetarian-diets)). 🔎
+- **Meagan Duhamel**, Canadian pairs figure skater. She has been vegan since 2008
+  ([VegNews, 2018](https://vegnews.com/vegan-health-wellness/vegan-figure-skater-earns-olympic-gold-medal)).
+  With Eric Radford she won the World Championships in 2015 and 2016, Olympic team
+  gold and pairs bronze at PyeongChang 2018
+  ([Team Canada](https://olympic.ca/team-canada/meagan-duhamel/)).
+- **Dotsie Bausch**, US track cyclist. She won Olympic silver in the team pursuit at
+  London 2012 ([Team USA](https://www.teamusa.com/profiles/dotsie-bausch)), having
+  given up animal products during her Olympic training
+  ([VegNews, 2012](https://vegnews.com/2012/7/olympic-athletes-thriving-on-vegetarian-diets)).
 - **Scott Jurek**, ultramarathon runner. He won the Western States 100-mile
-  Endurance Run seven times in a row (1999–2005) on a vegan diet (Western States results). 🔎
+  Endurance Run seven years in a row, 1999–2005
+  ([Wikipedia](https://en.wikipedia.org/wiki/Scott_Jurek)), and follows a fully
+  plant-based diet ([Clif Bar athlete profile](https://www.clifbar.com/athletes/scott-jurek)).
 
 *Individual athletes are inspiring, but they aren't scientific proof. The
 research above is what supports these points.*
 
 ### Myth: "Cows naturally make milk all the time."
-**The facts:** A cow produces milk after giving birth. Dairy cows are bred
-repeatedly to keep producing milk ([NFACC Dairy Code of Practice, 2023](https://www.nfacc.ca/codes-of-practice/dairy-cattle); AAFC Canadian Dairy Information Centre).
+**The facts:** A cow produces milk only after giving birth, and dairy cows are bred
+again so the cycle continues
+([BC SPCA](https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/);
+[Lactanet, 2019](https://lactanet.ca/wp-content/uploads/2021/03/2019-management-benchmarks-all-canada-free-stall-tie-stall-robot-organic.pdf)).
 
 ### Myth: "Bees make extra honey we can take."
-**The facts:** Honey is the colony's stored winter food. In Canada, beekeepers
-typically replace the harvested honey with sugar syrup so the colony can survive
-the winter ([Ontario Beekeepers' Association](https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf); APIS, 2025).
+**The facts:** Honey is the colony's winter food, and lack of food is a leading
+cause of winter colony deaths. When honey is harvested, colonies are fed sugar
+syrup instead ([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/publication/IN1006);
+[Ontario Beekeepers' Association](https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf)).
 
 ### Myth: "Eating plant-based is expensive."
 **The facts:** An Oxford study of 150 countries found that in high-income
-countries such as Canada, vegan diets based on whole foods (not processed meat
-substitutes) were **21–34% cheaper** than typical current diets. Vegetarian diets
-were also cheaper, by 27–31% ([Springmann et al., Lancet Planetary Health, 2021](https://www.ox.ac.uk/news/2021-11-11-sustainable-eating-cheaper-and-healthier-oxford-study)).
+countries, vegan diets were **21–34% cheaper** than typical current diets, and
+vegetarian diets were 27–31% cheaper. The study looked at whole foods, not
+processed meat substitutes or eating out
+([Springmann et al., Lancet Planetary Health, 2021](https://www.ox.ac.uk/news/2021-11-11-sustainable-eating-cheaper-and-healthier-oxford-study)).
 
 ---
 
 ## Page 8 — Everyday Swaps
 
-How common lacto-vegetarian foods compare with plant-based alternatives.
-Values are typical figures; brands vary, so check the Nutrition Facts table (Canadian Nutrient File; USDA FoodData Central). 🔎
+Plant-based alternatives to common lacto-vegetarian foods. Products vary, so check
+the Nutrition Facts table on the package.
 
-| Instead of | Try | How they compare |
+| Instead of | Try | What the sources say |
 |---|---|---|
-| **Milk** (doodh) for drinking, chai, cereal | **Fortified unsweetened soy beverage** (oat for frothy chai) | A cup of soy beverage has about the same protein as milk (~7 g vs ~8 g) with no cholesterol and less saturated fat. Fortified versions add calcium, vitamin D and B12. Unsweetened almond, oat and rice drinks are much lower in protein ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods); [Ontario Student Nutrition Program Guidelines](https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information)). |
-| **Paneer** | **Extra-firm or calcium-set tofu** | Per 100 g, paneer has ~18–20 g protein and ~13–16 g saturated fat. Firm tofu has ~12–17 g protein and ~1 g saturated fat. Tofu has no cholesterol, and calcium-set tofu is a good calcium source. Works in palak, matar, bhurji and tikka. 🔎 |
-| **Ghee / butter** (makhan) | **Canola, mustard, olive or sunflower oil**; vegan butter for baking | 1 tbsp ghee has ~8 g saturated fat and 1 tbsp butter ~7 g. Canola has ~1 g and olive ~2 g. Health Canada recommends choosing unsaturated fats instead of saturated fat (Canada's Food Guide). 🔎 |
-| **Dahi / raita / yoghurt** | **Plain soy yoghurt** with live cultures | Soy yoghurt is the closest in protein. Look for "live/active cultures". Coconut yoghurt is lower in protein and higher in saturated fat. 🔎 |
-| **Lassi** | Soy yoghurt blended with soy beverage | Same taste profile without dairy. |
-| **Cheese** | Nutritional yeast (fortified with B12), cashew-based cheeses, hummus | Cheese is high in saturated fat and sodium. Nutritional yeast gives a cheesy flavour plus B12 when fortified. 🔎 |
-| **Malai / cream** | Blended cashew cream, oat cooking cream | Cashew cream is mostly unsaturated fat. Coconut cream is high in saturated fat, so use it occasionally. 🔎 |
-| **Khoya / mawa** | Cashew or almond paste, soy milk powder | Similar richness in sweets. These are still treats. |
-| **Ice cream / kulfi** | Frozen banana "nice cream", soy- or oat-based frozen desserts | Still desserts. Enjoy occasionally. |
-| **Whey protein** | **Pea or soy protein powder** | Comparable protein per scoop. |
-| **Honey** | Date paste, jaggery (gur), maple syrup | All except whole-date paste are free sugars, the same as honey. Use sparingly (Canada's Food Guide). 🔎 |
+| **Milk** (doodh) for drinking, chai, cereal | **Fortified unsweetened soy beverage** | Unsweetened fortified soy beverage is nutritionally similar to cow's milk. Unsweetened almond, oat and rice beverages are not good sources of protein ([Ontario Student Nutrition Program Guidelines](https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information)). Enriched soy beverage has 4.5 g protein per 100 g, against 3.3 g for 2% milk ([Statistics Canada, from the Canadian Nutrient File](https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/t/6000057-eng.htm)). |
+| **Paneer** | **Firm tofu made with calcium sulfate** | Per 100 g: 17.3 g protein, 1.3 g saturated fat and about 680 mg calcium ([USDA FoodData Central](https://fdc.nal.usda.gov/food-details/172475/nutrients)). Paneer's nutrition varies widely by brand, so compare labels. |
+| **Ghee / butter** (makhan) | **Canola oil** (or other plant oils) | Ghee is about 60% saturated fat ([USDA FoodData Central](https://fdc.nal.usda.gov/food-details/171314/nutrients)). Canola oil has the lowest saturated fat of common cooking oils, about 7% ([Canola Council of Canada](https://canolacouncil.org/about-canola/oil/)). |
+| **Dahi / raita / yoghurt** | Plain soy yoghurt | Look for "live/active cultures" on the label. |
+| **Lassi** | Soy yoghurt blended with soy beverage | |
+| **Cheese** | Nutritional yeast, cashew-based cheeses, hummus | Some nutritional yeasts are fortified with vitamin B12 ([NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/)). |
+| **Malai / cream** | Blended cashew cream, oat cooking cream | |
+| **Khoya / mawa** | Cashew or almond paste | |
+| **Ice cream / kulfi** | Soy- or oat-based frozen desserts, frozen-banana "nice cream" | |
+| **Whey protein** | Pea or soy protein powder | |
+| **Honey** | Date paste, jaggery (gur), maple syrup | Syrups are free sugars, just like honey, so use them sparingly ([Health Canada, Canada's Dietary Guidelines](https://www.canada.ca/en/health-canada/services/food-guide/explore/dietary-guidelines/section-2-foods-beverages-that-undermine-healthy-eating.html)). |
 
 ---
 
 ## Page 9 — About
 
 Living Daya is a volunteer, non-commercial information project by Sikhs in Canada.
-We don't sell products and we don't accept sponsorship. Every claim on this site
+We don't sell products and we don't accept sponsorship. Every fact on this site
 links to its source. If you find an error, please tell us and we'll correct it.
 
 ---
 
-## References
+## Sources
 
 ### Gurbani
 All verses are from Sri Guru Granth Sahib Ji (standard 1430-Ang edition). Gurmukhi
 is from BaniDB / SikhiToTheMax. English renderings are adapted from [translation
-source to be named]. 🔎
+source to be named]. Ang references were checked against:
+- Ang 2 (Japji, Pauri 5): https://www.sikhiwiki.org/index.php/Japji_in_Roman_text
+- Ang 3 (Japji, Pauri 16): https://www.sikhiwiki.org/index.php/Japji_Sahib_Pauri_16
+- Ang 8 (Japji, Salok): https://www.sikhiwiki.org/index.php/Japji_8
+- Ang 471 (Asa Ki Vaar): https://searchgurbani.com/guru-granth-sahib/ang/471
+- Ang 663 (Dhanasari Aarti): https://www.sikhiwiki.org/index.php/Darpan_663
+- Ang 1350 (Prabhati, Bhagat Kabir Ji): https://www.sikhiwiki.org/index.php/SGGS_1350
+- Ang 1427 (Salok Mahalla 9, which spans Angs 1426–1429): https://www.sikhiwiki.org/index.php/Salok_Mahala_9
 
-### Sources
-
-- Agriculture and Agri-Food Canada, Canadian Dairy Information Centre — artificial insemination statistics. 🔎
-- Agriculture and Agri-Food Canada, Canadian Dairy Information Centre — dairy animal genetics / reproduction statistics. 🔎 (confirm age at first calving and calving interval)
-- Agriculture and Agri-Food Canada, Canadian Dairy Information Centre. *Culling and replacement rates in Canada.* https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement
-- Agriculture and Agri-Food Canada. *Statistical Overview of the Canadian Honey and Bee Industry* (latest edition). 🔎
-- Appleby, P., et al. (2007). Comparative fracture risk in vegetarians and nonvegetarians in EPIC-Oxford. *European Journal of Clinical Nutrition*, 61, 1400–1406. https://www.nature.com/articles/1602659
-- Beaver, A., Meagher, R. K., von Keyserlingk, M. A. G., & Weary, D. M. (2019). Invited review: A systematic review of the effects of early separation on dairy cow and calf health. *Journal of Dairy Science*, 102(7), 5784–5810. 🔎
-- Bouvard, V., et al. (2015). Carcinogenicity of consumption of red and processed meat. *The Lancet Oncology*, 16(16), 1599–1600.
-- Canadian Association of Professional Apiculturists (2024). *Statement on Honey Bee Wintering Losses in Canada (2024).* https://capabees.com/shared/CAPA-Statement-on-Colony-Losses-2023-2024_FV.pdf
-- Canadian Dairy Network (now Lactanet). Herd life / daughter survival rates for Holsteins. https://cdn.ca/document.php?id=162 🔎 (document date)
-- Consorzio del Formaggio Parmigiano Reggiano — production specification (calf rennet). 🔎 Use the Consorzio's own page.
-- Diabetes Canada — risk factors for type 2 diabetes (ethnicity). 🔎
-- Environment and Climate Change Canada (2025). *National Inventory Report 1990–2023: Greenhouse Gas Sources and Sinks in Canada.* 🔎 (confirm 7.9%)
-- FAO (2023). *Pathways towards lower emissions — A global assessment of the greenhouse gas emissions and mitigation options from livestock agrifood systems.* Rome. https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/
-- Feskanich, D., et al. (2014). Milk consumption during teenage years and risk of hip fractures in older adults. *JAMA Pediatrics*, 168(1), 54–60.
-- *Frontiers in Animal Science* (2022) — male dairy calf management in Canada. https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2022.1000897 🔎 (confirm authors and the on-farm euthanasia statement)
-- Geldmann, J., & González-Varo, J. P. (2018). Conserving honey bees does not help wildlife. *Science*, 359(6374), 392–393. https://doi.org/10.1126/science.aar2269
-- Gerber, P. J., et al. (2013). *Tackling Climate Change Through Livestock.* FAO, Rome.
-- Government of Ontario. *Student Nutrition Program Nutrition Guidelines (2020), Section 4.* https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information
+### Dairy
+- Agriculture and Agri-Food Canada, Canadian Dairy Information Centre (2025). *Culling and replacement rates in Canada* (2024 data). https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement
+- ADSA Annual Meeting (2019). Abstract #343 on dairy cow longevity. https://m.adsa.org/2019/abs/t/79446
+- BC SPCA. *Dairy cattle.* https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/
+- Beaver, A., Meagher, R. K., von Keyserlingk, M. A. G., & Weary, D. M. (2019). Invited review: A systematic review of the effects of early separation on dairy cow and calf health. *Journal of Dairy Science*, 102(7), 5784–5810.
+- Dairy Farmers of Canada, proAction. *What Do We Know About Cull Cows in Canada.* https://www.dairyfarmers.ca/Media/Files/proaction/What_Do_We_Know_About_Cull_Cows_in_Canada.pdf
+- Dairy Farmers of Canada, proAction. *Cull Cows in Canada: Why Are They Important and What Can We Do.* https://www.dairyfarmers.ca/Media/Files/proaction/Cull_Cows_in_Canada_Why_Are_They_Important_and_What_Can_We_Do.pdf
+- Government of Ontario. O. Reg. 58/15: Veal Cattle — Marketing. https://www.ontario.ca/laws/regulation/150058
 - Government of Ontario. *Veal farming.* https://www.ontario.ca/page/veal-farming
-- Government of Ontario. O. Reg. 58/15: Veal Cattle — Marketing, under the Farm Products Marketing Act. https://www.ontario.ca/laws/regulation/150058
-- Guinness World Records. *Heaviest yoke carry travelling 10 m (male)* — 555.2 kg, Patrik Baboumian, Toronto Vegetarian Food Festival, 8 Sept 2013. https://guinnessworldrecords.com/world-records/110923-heaviest-yoke-carry-travelling-10-m
-- Health Canada, *Canadian Nutrient File*; USDA *FoodData Central*. 🔎 Fill in exact values per food.
-- Health Canada. Canada's Food Guide — *Choose foods with healthy fats instead of saturated fat.* 🔎 exact page
+- Lactanet (2019). *Management Benchmarks, all Canada.* https://lactanet.ca/wp-content/uploads/2021/03/2019-management-benchmarks-all-canada-free-stall-tie-stall-robot-organic.pdf
+- Lactanet. *How Beef Semen is Reshaping Dairy Herds.* https://lactanet.ca/en/how-beef-semen-is-reshaping-dairy-herds/
+- Meagher, R. K., Beaver, A., Weary, D. M., & von Keyserlingk, M. A. G. (2019). Invited review: A systematic review of the effects of prolonged cow–calf contact on behavior, welfare, and productivity. *Journal of Dairy Science*, 102(7), 5765–5783.
+- National Farm Animal Health and Welfare Council (2019). *The Marketing of Male Dairy Calves in Canada.* https://www.ahwcouncil.ca/pdfs/NFAHWC%202019%20Male%20dairy%20calf%20marketing%20recommendations%20July%2023.pdf
+- Renaud, D. L., Duffield, T. F., LeBlanc, S. J., Haley, D. B., & Kelton, D. F. (2017). Management practices for male calves on Canadian dairy farms. *Journal of Dairy Science* (August 2017).
+- The Western Producer (2019). *Dairy calves slip through transport code cracks.* https://www.producer.com/2019/12/dairy-calves-slip-through-transport-code-cracks
+- Van Doormaal, B. J., & Kistemaker, G. J. (2003). *Canadian Journal of Animal Science* (AI usage in Canadian dairy cattle).
+
+### Hidden animal ingredients
+- Britannica. *Rennin.* https://www.britannica.com/science/rennin
+- Britannica. *Shellac.* https://www.britannica.com/topic/shellac
+- Consorzio del Formaggio Parmigiano Reggiano (2026). *Guidelines.* https://backend.parmigianoreggiano.com/uploads/Guidelines_ENG_REV_02_2026_4ee9d71975.pdf
+- EBSCO Research Starters. *Gelatin.* https://www.ebsco.com/research-starters/chemistry/gelatin
+- US Food and Drug Administration (2006). Proposed rule on listing cochineal extract and carmine by name on labels. *Federal Register*, vol. 71. https://www.govinfo.gov/link/fr/71/4847
+
+### Honey and bees
+- Agriculture and Agri-Food Canada (2026). *Statistical Overview of the Canadian Honey and Bee Industry, 2025.* https://agriculture.canada.ca/en/sector/horticulture/reports/statistical-overview-canadian-honey-and-bee-industry-2025
+- Canadian Association of Professional Apiculturists (2024). *Statement on Honey Bee Wintering Losses in Canada.* https://capabees.com/shared/CAPA-Statement-on-Colony-Losses-2023-2024_FV.pdf
+- Canadian Honey Council. *Industry overview.* https://honeycouncil.ca/?p=98
+- Geldmann, J., & González-Varo, J. P. (2018). Conserving honey bees does not help wildlife. *Science*, 359(6374), 392–393. https://doi.org/10.1126/science.aar2269
+- Nature Conservancy of Canada. *Wings of wonder: The diverse tapestry of native bee species.* https://storymaps.arcgis.com/stories/a11d3d40bec84cb6bb5ded9053863b61
+- Ontario Beekeepers' Association. *A Guide to Feeding Bees.* https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf
+- Rousseau, A., & Plamondon, L. (2025). Study comparing conventional sugar syrup, organic sugar syrup and honey as overwintering feed (Centre de recherche en sciences animales de Deschambault). *Apis*, 2(2). https://ojs.mtak.hu/index.php/Apis/article/view/21251
+- University of Florida IFAS Extension, EDIS publication IN1006 (honey bee colony winter preparation). https://edis.ifas.ufl.edu/publication/IN1006
+
+### Environment
+- Ethical Consumer. *Plant-based milk vs dairy: climate impacts* (figures from Our World in Data). https://www.ethicalconsumer.org/food-drink/plant-based-milk-vs-dairy-climate-impacts
+- FAO (2013). Gerber, P. J., et al. *Tackling Climate Change Through Livestock.* Rome. https://www.fao.org/4/i3437e/i3437e.pdf
+- FAO (2023). *Pathways towards lower emissions.* Rome. https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/
+- Government of Manitoba. *Agriculture and climate change.* https://gov.mb.ca/agriculture/environment/climate-change/print,agriculture-and-climate-change.html
+- Our World in Data. *Dairy vs. plant-based milk: what are the environmental impacts?* https://ourworldindata.org/environmental-impact-milks
+- Our World in Data. *Greenhouse gas emissions per kilogram of food product.* https://ourworldindata.org/grapher/ghg-per-kg-poore
+- Poore, J., & Nemecek, T. (2018). Reducing food's environmental impacts through producers and consumers. *Science*, 360(6392), 987–992. https://doi.org/10.1126/science.aaq0216
+- Scarborough, P., et al. (2023). Vegans, vegetarians, fish-eaters and meat-eaters in the UK show discrepant environmental impacts. *Nature Food*, 4, 565–574. https://doi.org/10.1038/s43016-023-00795-w
+- The Advocate (2025). Report on Canada's 2025 National Inventory Report. https://qcna.qc.ca/?p=31283
+- The Canadian Encyclopedia. *Lentil.* https://thecanadianencyclopedia.ca/en/article/lentil
+
+### Health and nutrition
+- Appleby, P., et al. (2007). Comparative fracture risk in vegetarians and nonvegetarians in EPIC-Oxford. *European Journal of Clinical Nutrition*, 61, 1400–1406. https://www.nature.com/articles/1602659
+- Bouvard, V., et al. (2015). Carcinogenicity of consumption of red and processed meat. *The Lancet Oncology*, 16(16), 1599–1600. https://doi.org/10.1016/S1470-2045(15)00444-1
+- Canola Council of Canada. *Canola Oil.* https://canolacouncil.org/about-canola/oil/
+- CMAJ Open (2014). Review of 50 Canadian studies on cardiovascular disease in South Asian Canadians. https://www.cmajopen.ca/content/2/3/E183
+- Feskanich, D., et al. (2014). Milk consumption during teenage years and risk of hip fractures in older adults. *JAMA Pediatrics*, 168(1), 54–60.
+- Health Canada. Canada's Dietary Guidelines, Section 2. https://www.canada.ca/en/health-canada/services/food-guide/explore/dietary-guidelines/section-2-foods-beverages-that-undermine-healthy-eating.html
 - Health Canada. Canada's Food Guide — *Eat protein foods.* https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods
-- Health Canada. Canada's Food Guide — sugars / sugary drinks guidance. 🔎 exact page
-- Health Canada. Vitamin D recommendation for adults over 50. 🔎 exact page
-- Heart & Stroke Foundation of Canada — South Asian heart health. 🔎
+- Health Canada. Canada's Food Guide — *Advice on vitamin and mineral supplementation.* https://food-guide.canada.ca/en/applying-guidelines/advice-vitamin-mineral-supplementation
+- Heaney, R. P., Weaver, C. M., & Recker, R. R. (1988). Calcium absorbability from spinach. *American Journal of Clinical Nutrition*, 47(4), 707–709. https://pubmed.ncbi.nlm.nih.gov/3354496/
+- Heaney, R. P., & Weaver, C. M. (1990). Calcium absorption from kale. *American Journal of Clinical Nutrition*. https://pubmed.ncbi.nlm.nih.gov/2321572/
 - Mariotti, F., & Gardner, C. D. (2019). Dietary Protein and Amino Acids in Vegetarian Diets—A Review. *Nutrients*, 11(11), 2661. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893534/
 - Melina, V., Craig, W., & Levin, S. (2016). Position of the Academy of Nutrition and Dietetics: Vegetarian Diets. *Journal of the Academy of Nutrition and Dietetics*, 116(12), 1970–1980. https://doi.org/10.1016/j.jand.2016.09.025
-- National Farm Animal Care Council & Dairy Farmers of Canada (2023). *Code of Practice for the Care and Handling of Dairy Cattle.* https://www.nfacc.ca/codes-of-practice/dairy-cattle
-- Ontario Beekeepers' Association. *A Guide to Feeding Bees.* https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf
-- Our World in Data. *Environmental footprints of dairy and plant-based milks* (data: Poore & Nemecek, 2018). https://ourworldindata.org/environmental-impact-milks 🔎 (confirm each value in the table)
-- Our World in Data. *Greenhouse gas emissions per kilogram of food product* (data: Poore & Nemecek, 2018). https://ourworldindata.org/grapher/ghg-per-kg-poore
-- Poore, J., & Nemecek, T. (2018). Reducing food's environmental impacts through producers and consumers. *Science*, 360(6392), 987–992. https://doi.org/10.1126/science.aaq0216
-- Profile/interview of Nimai Delgado. 🔎 Use a primary interview (e.g., *The Game Changers* or his own site).
-- Pulse Canada / Agriculture and Agri-Food Canada — Canada's lentil and pea production and exports. 🔎
-- Qian, F., et al. (2019). Association between plant-based dietary patterns and risk of type 2 diabetes: a systematic review and meta-analysis. *JAMA Internal Medicine*, 179(10), 1335–1344. 🔎
-- Quartz (2016). *Kendrick Farris, vegan weightlifter, Rio Olympics 2016.* https://qz.com/758648/kendrick-farris-vegan-weightlifter-rio-olympics-2016 (add USA Weightlifting record listing if available)
-- Scarborough, P., et al. (2023). Vegans, vegetarians, fish-eaters and meat-eaters in the UK show discrepant environmental impacts. *Nature Food*, 4, 565–574. https://doi.org/10.1038/s43016-023-00795-w
-- 🔎 Source needed (CFIA / Health Canada list of permitted glazing agents).
-- 🔎 Source needed (e.g., Gelatin Manufacturers Institute of America, or an encyclopedia entry).
-- 🔎 Source needed (e.g., Health Canada / CFIA food colour listing for carmine/cochineal).
-- 🔎 Source needed for natural lifespan of cattle (~20 years). Remove the sentence if none is found.
-- 🔎 Source needed for number of native bee species in Canada (e.g., Government of Canada / Canadian Wildlife Federation).
-- Springmann, M., et al. (2021). The global and regional costs of healthy and sustainable dietary patterns: a modelling study. *The Lancet Planetary Health*, 5(11), e797–e807. https://www.ox.ac.uk/news/2021-11-11-sustainable-eating-cheaper-and-healthier-oxford-study
-- Study on fall feeding of honeybee colonies in Canada, *APIS* (2025). 🔎 full citation
-- The Globe and Mail (2009). *Laraque happy to veg out.* https://www.theglobeandmail.com/sports/laraque-happy-to-veg-out/article4285607/
-- Tong, T. Y. N., et al. (2019). Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up: results from the prospective EPIC-Oxford study. *BMJ*, 366, l4897.
-- U.S. National Institutes of Health, Office of Dietary Supplements. *Vitamin B12 Fact Sheet for Health Professionals.* https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
-- VegNews (2012). *Olympic athletes thriving on vegetarian diets.* https://vegnews.com/2012/7/olympic-athletes-thriving-on-vegetarian-diets (add Olympics.com result) 🔎
-- VegNews (2018). *Vegan figure skater earns Olympic gold medal.* https://vegnews.com/vegan-health-wellness/vegan-figure-skater-earns-olympic-gold-medal (add Skate Canada / Olympics.com profile for medal record) 🔎
-- Western States Endurance Run — past results; Jurek, S. (2012). *Eat & Run.* 🔎
+- NIH Office of Dietary Supplements. *Vitamin B12 — Fact Sheet for Consumers.* https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/
+- Government of Ontario (2020). *Student Nutrition Program Nutrition Guidelines, Section 4.* https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information
+- Pew Research Center (2021). *Religion in India: Religion and food.* https://www.pewresearch.org/religion/2021/06/29/religion-and-food/
+- Public Health Agency of Canada (2018). *Health Promotion and Chronic Disease Prevention in Canada*, 38(7/8). https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-38-no-7-8-2018/hpcdp-a3-38-7-8-eng.pdf
+- Qian, F., et al. (2019). Association between plant-based dietary patterns and risk of type 2 diabetes. *JAMA Internal Medicine*, 179(10), 1335–1344. https://doi.org/10.1001/jamainternmed.2019.2195
+- Springmann, M., et al. (2021). The global and regional costs of healthy and sustainable dietary patterns. *The Lancet Planetary Health*, 5(11), e797–e807. https://www.ox.ac.uk/news/2021-11-11-sustainable-eating-cheaper-and-healthier-oxford-study
+- Statistics Canada (2007). Nutritional content per 100 g, from Health Canada's Canadian Nutrient File. https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/t/6000057-eng.htm
+- Tong, T. Y. N., et al. (2019). Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up. *BMJ*, 366, l4897. https://doi.org/10.1136/bmj.l4897
+- University of Florida IFAS Extension, EDIS fact sheet FS16700 (vegetarian nutrition, citing the Academy of Nutrition and Dietetics). https://edis.ifas.ufl.edu/pdffiles/FS/FS16700.pdf
+- USDA FoodData Central. Tofu, raw, firm, prepared with calcium sulfate (FDC 172475). https://fdc.nal.usda.gov/food-details/172475/nutrients
+- USDA FoodData Central. Butter, clarified butter (ghee) (FDC 171314). https://fdc.nal.usda.gov/food-details/171314/nutrients
+- Young, V. R., & Pellett, P. L. (1994). Plant proteins in relation to human protein and amino acid nutrition. *American Journal of Clinical Nutrition*, 59(5 Suppl), 1203S–1212S. https://pubmed.ncbi.nlm.nih.gov/8172124/
 
+### Athletes
+- Clif Bar. *Scott Jurek.* https://www.clifbar.com/athletes/scott-jurek
+- Guinness World Records. *Heaviest yoke carry travelling 10 m (male).* https://guinnessworldrecords.com/world-records/110923-heaviest-yoke-carry-travelling-10-m
+- Quartz (2016). *Kendrick Farris, vegan weightlifter.* https://qz.com/758648/kendrick-farris-vegan-weightlifter-rio-olympics-2016
+- Team Canada (Canadian Olympic Committee). *Meagan Duhamel.* https://olympic.ca/team-canada/meagan-duhamel/
+- Team USA. *Dotsie Bausch.* https://www.teamusa.com/profiles/dotsie-bausch
+- Team USA. *Kendrick Farris.* https://www.teamusa.com/profiles/kendrick-farris-811140
+- The Globe and Mail (2009). *Laraque happy to veg out.* https://www.theglobeandmail.com/sports/laraque-happy-to-veg-out/article4285607/
+- The Rich Roll Podcast. *Nimai Delgado.* https://richroll.com/podcast/nimai-delgado-385/
+- VegNews (2012). *Olympic athletes thriving on vegetarian diets.* https://vegnews.com/2012/7/olympic-athletes-thriving-on-vegetarian-diets
+- VegNews (2018). *Vegan figure skater earns Olympic gold medal.* https://vegnews.com/vegan-health-wellness/vegan-figure-skater-earns-olympic-gold-medal
+- Wikipedia. *Georges Laraque.* https://en.wikipedia.org/wiki/Georges_Laraque
+- Wikipedia. *Scott Jurek.* https://en.wikipedia.org/wiki/Scott_Jurek
