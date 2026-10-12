@@ -114,26 +114,27 @@ farming works, with a focus on Canada.
 
 ### A cow gives milk because she has had a calf
 A cow must give birth before she produces milk. She is milked for about ten months
-and then has a two-month "dry" period before her next calf is born
-([BC SPCA](https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/)).
-On a typical Canadian dairy farm, a cow has her first calf at about **25 months**
-old, and then a calf about every **13 to 14 months**
-([Lactanet, 2019](https://lactanet.ca/wp-content/uploads/2021/03/2019-management-benchmarks-all-canada-free-stall-tie-stall-robot-organic.pdf)).
-Most Canadian dairy cows are bred by artificial insemination, at least 75% by a
-2003 estimate (Van Doormaal & Kistemaker, Canadian Journal of Animal Science, 2003).
+and then rests for about 60 days before her next calf is born
+([Canadian Food Focus](https://canadianfoodfocus.org/?p=49441)). A typical dairy
+cow is managed so that she gives birth every **12–13 months**
+([Government of British Columbia, 2026](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/agriculture-and-seafood/agricultural-land-and-environment/strengthening-farming/farm-practices/2026/dairy_2026.pdf)).
+Most Canadian milk producers rely on artificial insemination to breed their cows
+([The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en/article/dairy-farming)).
 
 ### Mother and calf are separated
-On many commercial dairy farms, the calf is routinely taken from its mother within
-24 hours of birth (Beaver et al., Journal of Dairy Science, 2019). In Canada, cow
-and calf are usually separated a few hours after birth
-([BC SPCA](https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/)).
+In Canada the standard dairy practice is to remove the calf from its mother within
+a few hours of birth and house them separately
+([Montreal SPCA](https://www.spca.com/en/separation-of-cow-and-calf/)). Dairy
+farmers' own organizations confirm this and explain why they do it
+([Alberta Milk](https://albertamilk.com/ask-dairy-farmer/why-do-you-take-the-calf-away-from-its-mother-so-q/)).
 
 Two scientific reviews from the University of British Columbia looked at this
 practice. They found that the research provides **no consistent evidence that
-early separation benefits cow or calf health** (Beaver et al., Journal of Dairy
-Science, 2019). They also found that longer cow–calf contact generally benefits
-calves, giving them more normal social behaviour and less abnormal behaviour
-(Meagher et al., Journal of Dairy Science, 2019).
+early separation benefits cow or calf health**
+([Beaver et al., Journal of Dairy Science, 2019](https://doi.org/10.3168/jds.2018-15603)).
+They also found that longer cow–calf contact generally benefits calves, giving them
+more normal social behaviour and less abnormal behaviour
+([Meagher et al., Journal of Dairy Science, 2019](https://doi.org/10.3168/jds.2018-16021)).
 
 ### What happens to the calves
 - **Male calves.** Canadian dairy farms produce several hundred thousand male
@@ -147,27 +148,27 @@ calves, giving them more normal social behaviour and less abnormal behaviour
   calves** a year ([Government of Ontario](https://www.ontario.ca/page/veal-farming)).
 - **Some are killed at birth.** In a national survey of 1,025 Canadian dairy
   farms, 5% reported euthanizing at least one male calf at birth in the previous
-  year. Blunt force trauma was a commonly used method (Renaud et al., Journal of
-  Dairy Science, 2017).
+  year. Blunt force trauma was a commonly used method
+  ([Renaud et al., Journal of Dairy Science, 2017](https://doi.org/10.3168/jds.2017-12750)).
 - **Beef-cross calves.** Canadian dairy farmers increasingly breed cows with beef
   semen. In 2023 it was used on 29% of Holsteins, 25% of Jerseys and 39% of
   Ayrshires. The resulting calves are raised for beef
   ([Lactanet](https://lactanet.ca/en/how-beef-semen-is-reshaping-dairy-herds/)).
 
 ### What happens to the mothers
-Canadian dairy herds remove about **30%** of their cows every year
-([Dairy Farmers of Canada](https://www.dairyfarmers.ca/Media/Files/proaction/What_Do_We_Know_About_Cull_Cows_in_Canada.pdf)).
-In 2024 the national culling rate was **27.9%**. The leading recorded reasons were
-reproductive problems (the cow failing to get pregnant again), mastitis (udder
-infection) and low milk production
+In 2024 Canadian dairy farms culled (removed from the herd) **27.9%** of their
+cows. The leading recorded reasons were reproductive problems (the cow failing to
+get pregnant again), mastitis (udder infection) and low milk production
 ([Agriculture and Agri-Food Canada, 2025](https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement)).
 Culled cows are sold through auctions or sent directly to slaughter. On the way
 they can travel as far as **4,500 km** and spend up to **7–10 days** in transit
 ([Dairy Farmers of Canada](https://www.dairyfarmers.ca/Media/Files/proaction/Cull_Cows_in_Canada_Why_Are_They_Important_and_What_Can_We_Do.pdf)).
 
-Researchers note that the natural lifespan of cattle is about **20 years**. Dairy
-cows, by contrast, live on average about **3 years after their first calving**
-(US data; [ADSA Annual Meeting abstract, 2019](https://m.adsa.org/2019/abs/t/79446)).
+In high-producing dairy countries, cows spend on average only about **3 to 4
+years** in the milking herd. That is far shorter than the natural life expectancy
+of cattle ([De Vries & Marcondes, Animal, 2020](https://doi.org/10.1017/S1751731119003264)).
+Biologically, a dairy cow could live up to about **20 years**
+([INRAE research paper](https://hal.inrae.fr/hal-03759257/document)).
 
 ### Animal products that are easy to miss
 - **Animal rennet** comes from the stomach of cud-chewing animals such as cows and
@@ -386,8 +387,7 @@ Research links plant-based eating patterns with lower risk of both conditions:
 - In two large Harvard cohort studies of more than 96,000 adults followed for over
   22 years, drinking more milk as a teenager did **not** lower women's risk of hip
   fracture later in life. In men, each extra daily glass was linked to a 9%
-  *higher* risk, partly explained by height (Feskanich et al., JAMA Pediatrics,
-  2014).
+  *higher* risk, partly explained by height ([Feskanich et al., JAMA Pediatrics, 2014](https://pubmed.ncbi.nlm.nih.gov/24247817/)).
 - In EPIC-Oxford, vegans who got at least 525 mg of calcium a day had the **same**
   fracture risk as meat-eaters. Vegans' overall higher risk appeared to result
   from their lower calcium intake
@@ -423,8 +423,8 @@ research above is what supports these points.*
 ### Myth: "Cows naturally make milk all the time."
 **The facts:** A cow produces milk only after giving birth, and dairy cows are bred
 again so the cycle continues
-([BC SPCA](https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/);
-[Lactanet, 2019](https://lactanet.ca/wp-content/uploads/2021/03/2019-management-benchmarks-all-canada-free-stall-tie-stall-robot-organic.pdf)).
+([Canadian Food Focus](https://canadianfoodfocus.org/?p=49441);
+[Government of British Columbia, 2026](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/agriculture-and-seafood/agricultural-land-and-environment/strengthening-farming/farm-practices/2026/dairy_2026.pdf)).
 
 ### Myth: "Bees make extra honey we can take."
 **The facts:** Honey is the colony's winter food, and lack of food is a leading
@@ -486,20 +486,22 @@ source to be named]. Ang references were checked against:
 
 ### Dairy
 - Agriculture and Agri-Food Canada, Canadian Dairy Information Centre (2025). *Culling and replacement rates in Canada* (2024 data). https://agriculture.canada.ca/en/sector/animal-industry/canadian-dairy-information-centre/statistics-market-information/dairy-animal-genetics/culling-replacement
-- ADSA Annual Meeting (2019). Abstract #343 on dairy cow longevity. https://m.adsa.org/2019/abs/t/79446
-- BC SPCA. *Dairy cattle.* https://spca.bc.ca/programs-services/farm-animal-programs/farm-animal-production/dairy-cattle/
-- Beaver, A., Meagher, R. K., von Keyserlingk, M. A. G., & Weary, D. M. (2019). Invited review: A systematic review of the effects of early separation on dairy cow and calf health. *Journal of Dairy Science*, 102(7), 5784–5810.
-- Dairy Farmers of Canada, proAction. *What Do We Know About Cull Cows in Canada.* https://www.dairyfarmers.ca/Media/Files/proaction/What_Do_We_Know_About_Cull_Cows_in_Canada.pdf
+- Alberta Milk. *Ask a dairy farmer: Why do you take the calf away from its mother?* https://albertamilk.com/ask-dairy-farmer/why-do-you-take-the-calf-away-from-its-mother-so-q/
+- Canadian Food Focus. Dairy farming explainer. https://canadianfoodfocus.org/?p=49441
+- De Vries, A., & Marcondes, M. I. (2020). Review: Overview of factors affecting productive lifespan of dairy cows. *Animal*, 14, s155–s164. https://doi.org/10.1017/S1751731119003264
+- Beaver, A., Meagher, R. K., von Keyserlingk, M. A. G., & Weary, D. M. (2019). Invited review: A systematic review of the effects of early separation on dairy cow and calf health. *Journal of Dairy Science*, 102(7), 5784–5810. https://doi.org/10.3168/jds.2018-15603
+- Government of British Columbia (2026). Farm Practices guide — Dairy. https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/agriculture-and-seafood/agricultural-land-and-environment/strengthening-farming/farm-practices/2026/dairy_2026.pdf
+- INRAE (HAL open archive). Research paper citing De Vries & Marcondes on the biological lifespan of dairy cows. https://hal.inrae.fr/hal-03759257/document
 - Dairy Farmers of Canada, proAction. *Cull Cows in Canada: Why Are They Important and What Can We Do.* https://www.dairyfarmers.ca/Media/Files/proaction/Cull_Cows_in_Canada_Why_Are_They_Important_and_What_Can_We_Do.pdf
 - Government of Ontario. O. Reg. 58/15: Veal Cattle — Marketing. https://www.ontario.ca/laws/regulation/150058
 - Government of Ontario. *Veal farming.* https://www.ontario.ca/page/veal-farming
-- Lactanet (2019). *Management Benchmarks, all Canada.* https://lactanet.ca/wp-content/uploads/2021/03/2019-management-benchmarks-all-canada-free-stall-tie-stall-robot-organic.pdf
 - Lactanet. *How Beef Semen is Reshaping Dairy Herds.* https://lactanet.ca/en/how-beef-semen-is-reshaping-dairy-herds/
-- Meagher, R. K., Beaver, A., Weary, D. M., & von Keyserlingk, M. A. G. (2019). Invited review: A systematic review of the effects of prolonged cow–calf contact on behavior, welfare, and productivity. *Journal of Dairy Science*, 102(7), 5765–5783.
+- Meagher, R. K., Beaver, A., Weary, D. M., & von Keyserlingk, M. A. G. (2019). Invited review: A systematic review of the effects of prolonged cow–calf contact on behavior, welfare, and productivity. *Journal of Dairy Science*, 102(7), 5765–5783. https://doi.org/10.3168/jds.2018-16021
+- Montreal SPCA. *The separation of cow and calf, a key aspect of dairy production.* https://www.spca.com/en/separation-of-cow-and-calf/
 - National Farm Animal Health and Welfare Council (2019). *The Marketing of Male Dairy Calves in Canada.* https://www.ahwcouncil.ca/pdfs/NFAHWC%202019%20Male%20dairy%20calf%20marketing%20recommendations%20July%2023.pdf
-- Renaud, D. L., Duffield, T. F., LeBlanc, S. J., Haley, D. B., & Kelton, D. F. (2017). Management practices for male calves on Canadian dairy farms. *Journal of Dairy Science* (August 2017).
+- Renaud, D. L., Duffield, T. F., LeBlanc, S. J., Haley, D. B., & Kelton, D. F. (2017). Management practices for male calves on Canadian dairy farms. *Journal of Dairy Science*, 100(8), 6862–6871. https://doi.org/10.3168/jds.2017-12750
+- The Canadian Encyclopedia. *Dairy farming.* https://thecanadianencyclopedia.ca/en/article/dairy-farming
 - The Western Producer (2019). *Dairy calves slip through transport code cracks.* https://www.producer.com/2019/12/dairy-calves-slip-through-transport-code-cracks
-- Van Doormaal, B. J., & Kistemaker, G. J. (2003). *Canadian Journal of Animal Science* (AI usage in Canadian dairy cattle).
 
 ### Hidden animal ingredients
 - Britannica. *Rennin.* https://www.britannica.com/science/rennin
@@ -535,7 +537,7 @@ source to be named]. Ang references were checked against:
 - Bouvard, V., et al. (2015). Carcinogenicity of consumption of red and processed meat. *The Lancet Oncology*, 16(16), 1599–1600. https://doi.org/10.1016/S1470-2045(15)00444-1
 - Canola Council of Canada. *Canola Oil.* https://canolacouncil.org/about-canola/oil/
 - CMAJ Open (2014). Review of 50 Canadian studies on cardiovascular disease in South Asian Canadians. https://www.cmajopen.ca/content/2/3/E183
-- Feskanich, D., et al. (2014). Milk consumption during teenage years and risk of hip fractures in older adults. *JAMA Pediatrics*, 168(1), 54–60.
+- Feskanich, D., et al. (2014). Milk consumption during teenage years and risk of hip fractures in older adults. *JAMA Pediatrics*, 168(1), 54–60. https://pubmed.ncbi.nlm.nih.gov/24247817/
 - Health Canada. Canada's Dietary Guidelines, Section 2. https://www.canada.ca/en/health-canada/services/food-guide/explore/dietary-guidelines/section-2-foods-beverages-that-undermine-healthy-eating.html
 - Health Canada. Canada's Food Guide — *Eat protein foods.* https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods
 - Health Canada. Canada's Food Guide — *Advice on vitamin and mineral supplementation.* https://food-guide.canada.ca/en/applying-guidelines/advice-vitamin-mineral-supplementation

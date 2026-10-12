@@ -37,6 +37,14 @@ sure it loads and says what we say. Work through the list below.
   - Vitamin D advice applies at age 51+.
   - Lactanet calving age and interval are now given as medians.
 
+## v5 changes (from reviewer feedback, Oct 2026)
+- BC SPCA dairy page (reported as "page not found") replaced by Montreal SPCA, Alberta Milk, Canadian Food Focus and a Government of BC farm-practices guide.
+- Journal articles now link to their DOI or PubMed record: Beaver 2019, Meagher 2019, Renaud 2017, Feskanich 2014 and De Vries & Marcondes 2020.
+- The Lactanet benchmark PDF and Van Doormaal 2003 (no link) were removed. The calving cycle now cites the BC government, and artificial insemination cites The Canadian Encyclopedia.
+- "Herds remove about 30% of cows a year" was removed because the cited DFC PDF didn't support it. The figure is now AAFC's official 27.9% (2024).
+- The US-only longevity figure was replaced by a peer-reviewed review (De Vries & Marcondes 2020: 3–4 years of productive life in high-producing dairy countries). No Canada-specific average lifespan figure was found. AAFC's annual culling rate is the Canadian data point.
+- PDFs that remain in Page 3 are from official bodies: the NFAHW Council, Dairy Farmers of Canada and the Government of BC.
+
 ## Sources that are secondary (worth replacing with the primary source if possible)
 | Claim | Current source | Primary source to check |
 |---|---|---|
@@ -48,8 +56,8 @@ sure it loads and says what we say. Work through the list below.
 | Nimai Delgado details | Rich Roll podcast page | his own interview or site |
 | Scott Jurek wins | Wikipedia | Western States results page |
 | Native bees > 800 species | Nature Conservancy of Canada story map | a Government of Canada species list |
-| Natural lifespan ~20 years | ADSA 2019 abstract | De Vries & Marcondes (2020), *Animal* |
-| AI ≥ 75% | 2003 journal estimate (dated) | AAFC CDIC current AI report |
+| Natural lifespan up to ~20 years | INRAE paper citing De Vries & Marcondes | full text of De Vries & Marcondes (2020) |
+| Most producers use AI | The Canadian Encyclopedia (may be dated) | AAFC CDIC current AI report |
 
 ## Gurbani (copy from BaniDB, confirm Ang and author)
 | Line | Ang | Status |
