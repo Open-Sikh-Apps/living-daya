@@ -242,7 +242,8 @@ the protein** people eat ([Poore & Nemecek, Science, 2018](https://doi.org/10.11
 - The UN Food and Agriculture Organization estimates that livestock supply chains
   produce about **12% of all human-caused greenhouse gas emissions** (6.2 billion
   tonnes CO₂-equivalent) ([FAO, 2023](https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/)).
-  An earlier FAO estimate put the figure at 14.5% ([FAO, 2013](https://www.fao.org/4/i3437e/i3437e.pdf)).
+  An earlier FAO estimate put the figure at 14.5%
+  ([FAO, 2013](https://www.fao.org/3/i3437e/i3437e00.htm)).
 - **Cheese has a higher climate footprint per kilogram than chicken or pork.**
   Average global emissions per kg of food
   ([Our World in Data; Poore & Nemecek, 2018](https://ourworldindata.org/grapher/ghg-per-kg-poore)):
@@ -255,18 +256,11 @@ the protein** people eat ([Poore & Nemecek, Science, 2018](https://doi.org/10.11
 | Tofu | 3.2 |
 
 ### Milk compared with plant milks
-Dairy milk has higher environmental impacts than every plant-based alternative
-studied (oat, soy, almond and rice) in every category measured: land use,
-greenhouse gas emissions, freshwater use and water pollution
+Per litre, cow's milk produces about **three times** the greenhouse gas emissions
+of plant-based milks and uses about **ten times** the land. Its impacts are higher
+than those of the plant alternatives on every measure studied, including fresh
+water use and water pollution
 ([Our World in Data](https://ourworldindata.org/environmental-impact-milks)).
-For one litre of each drink:
-
-| Per litre | Dairy milk | Soy | Oat |
-|---|---|---|---|
-| Emissions (kg CO₂-eq) | 3.15 | 0.98 | 0.90 |
-| Land (m²) | 8.95 | 0.66 | 0.76 |
-
-(Our World in Data, from Poore & Nemecek 2018, as tabulated by [Ethical Consumer](https://www.ethicalconsumer.org/food-drink/plant-based-milk-vs-dairy-climate-impacts))
 
 ### Whole diets
 A 2023 University of Oxford study linked the real diets of more than 55,000 people
@@ -276,11 +270,9 @@ about **25%** of the greenhouse gas emissions and used about **25%** of the land
 high-meat diets ([Scarborough et al., Nature Food, 2023](https://doi.org/10.1038/s43016-023-00795-w)).
 
 ### In Canada
-Agriculture produced **55 million tonnes** CO₂-equivalent in 2023, **7.9%** of
-Canada's total emissions (Environment and Climate Change Canada, National Inventory
-Report 2025, as reported by [The Advocate, 2025](https://qcna.qc.ca/?p=31283)).
-That figure doesn't include fossil fuel used on farms, which is reported under
-transportation ([Government of Manitoba](https://gov.mb.ca/agriculture/environment/climate-change/print,agriculture-and-climate-change.html)).
+About **10%** of Canada's greenhouse gas emissions came from agriculture in 2021,
+and the sector's emissions grew by 39% between 1990 and 2021
+([Office of the Auditor General of Canada, 2024](https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-cesd-202404-05-e.html)).
 Canada is also the world's leading producer and exporter of lentils
 ([The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en/article/lentil)).
 
@@ -309,10 +301,11 @@ Canada is also the world's leading producer and exporter of lentils
 ### Why this matters for South Asian Canadians
 - South Asians in North America have **two to three times** the general
   population's risk of type 2 diabetes, and are diagnosed at a younger age on
-  average ([Public Health Agency of Canada, 2018](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-38-no-7-8-2018/hpcdp-a3-38-7-8-eng.pdf)).
-- A review of 50 Canadian studies found that South Asian Canadians have higher
-  rates of cardiovascular disease than other Canadians
-  ([CMAJ Open, 2014](https://www.cmajopen.ca/content/2/3/E183)).
+  average ([Agarwal et al., Public Health Agency of Canada, 2018](https://www.canada.ca/en/public-health/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-38-no-7-8-2018/canrisk-indentification-dysglycemia-canadian-south-asian-population.html)).
+- A review of 50 Canadian studies covering 5.8 million people found that South Asian
+  Canadians have higher rates of cardiovascular disease than white Canadians, and
+  about twice the rate of diabetes
+  ([Rana et al., CMAJ Open, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4183167/)).
 
 Research links plant-based eating patterns with lower risk of both conditions:
 - In an analysis of 9 studies covering more than 300,000 people, those who most
@@ -337,9 +330,8 @@ Research links plant-based eating patterns with lower risk of both conditions:
 - **Vitamin D.** Health Canada advises adults aged 51 and over to take a daily
   vitamin D supplement of 400 IU, whatever their diet
   ([Canada's Food Guide](https://food-guide.canada.ca/en/applying-guidelines/advice-vitamin-mineral-supplementation)).
-- **Iron.** The body absorbs iron from plants less efficiently than iron from meat.
-  Eating foods rich in vitamin C at the same meal improves absorption
-  ([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/pdffiles/FS/FS16700.pdf)).
+- **Iron.** Vitamin C eaten in the same meal is a strong enhancer of iron absorption
+  from plant foods ([Hallberg et al., 1989](https://pubmed.ncbi.nlm.nih.gov/2507689/)).
 - **Also worth attention:** calcium (see the myth below), zinc, iodine and omega-3
   fats. Experts conclude that a well-planned vegetarian or vegan diet can meet the
   recommendations for all of these, and that fortified foods or supplements can
@@ -363,7 +355,8 @@ Research links plant-based eating patterns with lower risk of both conditions:
 - For those who do eat meat: the World Health Organization's cancer agency
   classifies processed meat as carcinogenic to humans (Group 1) and red meat as
   probably carcinogenic (Group 2A)
-  ([IARC; Bouvard et al., Lancet Oncology, 2015](https://doi.org/10.1016/S1470-2045(15)00444-1)).
+  ([IARC, 2015](https://www.iarc.who.int/news-events/iarc-monographs-volume-114-evaluation-of-consumption-of-red-meat-and-processed-meat);
+  [Bouvard et al., Lancet Oncology, 2015](https://pubmed.ncbi.nlm.nih.gov/26514947/)).
 
 **Strength athletes on plants**
 - **Patrik Baboumian**, strongman. On 8 September 2013, at the Toronto Vegetarian
@@ -374,12 +367,10 @@ Research links plant-based eating patterns with lower risk of both conditions:
   vegan since 2014, and at the 2016 US Olympic Trials he set the American record
   total of 377 kg in the 94 kg class
   ([Quartz, 2016](https://qz.com/758648/kendrick-farris-vegan-weightlifter-rio-olympics-2016)).
-- **Nimai Delgado**, IFBB Pro bodybuilder. He was raised vegetarian, has never
-  eaten meat, and has been fully plant-based since 2015
-  ([The Rich Roll Podcast](https://richroll.com/podcast/nimai-delgado-385/)).
 - **Georges Laraque**, Canadian former NHL enforcer who played for Edmonton,
-  Phoenix, Pittsburgh and Montréal ([Wikipedia](https://en.wikipedia.org/wiki/Georges_Laraque)).
-  He went vegan on 1 June 2009, while still playing for the Canadiens
+  Phoenix, Pittsburgh and Montréal
+  ([ESPN](https://africa.espn.com/nhl/player/bio/_/id/515/georges-laraque)). He went
+  vegan on 1 June 2009, while still playing for the Canadiens
   ([The Globe and Mail, 2009](https://www.theglobeandmail.com/sports/laraque-happy-to-veg-out/article4285607/)).
 
 ### Myth: "You need cow's milk for strong bones."
@@ -387,7 +378,8 @@ Research links plant-based eating patterns with lower risk of both conditions:
 - In two large Harvard cohort studies of more than 96,000 adults followed for over
   22 years, drinking more milk as a teenager did **not** lower women's risk of hip
   fracture later in life. In men, each extra daily glass was linked to a 9%
-  *higher* risk, partly explained by height ([Feskanich et al., JAMA Pediatrics, 2014](https://pubmed.ncbi.nlm.nih.gov/24247817/)).
+  *higher* risk, partly explained by height
+  ([Feskanich et al., JAMA Pediatrics, 2014](https://pubmed.ncbi.nlm.nih.gov/24247817/)).
 - In EPIC-Oxford, vegans who got at least 525 mg of calcium a day had the **same**
   fracture risk as meat-eaters. Vegans' overall higher risk appeared to result
   from their lower calcium intake
@@ -396,26 +388,27 @@ Research links plant-based eating patterns with lower risk of both conditions:
 - Plant calcium can be well absorbed:
   - Calcium from **kale** was absorbed at least as well as calcium from milk
     (about 41% vs 32%) ([Heaney & Weaver, American Journal of Clinical Nutrition, 1990](https://pubmed.ncbi.nlm.nih.gov/2321572/)).
-  - Firm **tofu made with calcium sulfate** contains about 680 mg of calcium per
-    100 g ([USDA FoodData Central](https://fdc.nal.usda.gov/food-details/172475/nutrients)).
   - **Spinach** is an exception. Only about 5% of its calcium is absorbed,
     compared with about 28% from milk
     ([Heaney et al., American Journal of Clinical Nutrition, 1988](https://pubmed.ncbi.nlm.nih.gov/3354496/)).
 
 **Athletes who built strong bodies without dairy**
-- **Meagan Duhamel**, Canadian pairs figure skater. She has been vegan since 2008
-  ([VegNews, 2018](https://vegnews.com/vegan-health-wellness/vegan-figure-skater-earns-olympic-gold-medal)).
+- **Meagan Duhamel**, Canadian pairs figure skater. She follows a vegan diet,
+  which she says helps her train, focus and recover
+  ([CBC Sports](https://www.cbc.ca/sports/olympics/winter/figure-skating/meagan-duhamel-s-vegan-diet-helps-her-train-focus-recover-1.3516294)).
   With Eric Radford she won the World Championships in 2015 and 2016, Olympic team
   gold and pairs bronze at PyeongChang 2018
   ([Team Canada](https://olympic.ca/team-canada/meagan-duhamel/)).
 - **Dotsie Bausch**, US track cyclist. She won Olympic silver in the team pursuit at
-  London 2012 ([Team USA](https://www.teamusa.com/profiles/dotsie-bausch)), having
-  given up animal products during her Olympic training
-  ([VegNews, 2012](https://vegnews.com/2012/7/olympic-athletes-thriving-on-vegetarian-diets)).
+  London 2012 ([Team USA](https://www.teamusa.com/profiles/dotsie-bausch)). In her
+  own account she describes giving up meat, and then dairy, and finding she had
+  more energy and recovered faster
+  ([Bausch, TrainingPeaks](https://trainingpeaks.com/blog/the-dairy-free-olympian)).
 - **Scott Jurek**, ultramarathon runner. He won the Western States 100-mile
   Endurance Run seven years in a row, 1999–2005
-  ([Wikipedia](https://en.wikipedia.org/wiki/Scott_Jurek)), and follows a fully
-  plant-based diet ([Clif Bar athlete profile](https://www.clifbar.com/athletes/scott-jurek)).
+  ([Wikipedia](https://en.wikipedia.org/wiki/Scott_Jurek)). His memoir *Eat and
+  Run* describes his switch to a vegan diet
+  ([Publishers Weekly](https://www.publishersweekly.com/9780547569659)).
 
 *Individual athletes are inspiring, but they aren't scientific proof. The
 research above is what supports these points.*
@@ -428,9 +421,9 @@ again so the cycle continues
 
 ### Myth: "Bees make extra honey we can take."
 **The facts:** Honey is the colony's winter food, and lack of food is a leading
-cause of winter colony deaths. When honey is harvested, colonies are fed sugar
-syrup instead ([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/publication/IN1006);
-[Ontario Beekeepers' Association](https://www.ontariobee.com/sites/ontariobee.com/files/GuideFeedingBees.pdf)).
+cause of winter colony deaths. When stores run short, beekeepers feed sugar syrup,
+which the bees store in place of honey
+([University of Florida IFAS Extension](https://edis.ifas.ufl.edu/publication/IN1006)).
 
 ### Myth: "Eating plant-based is expensive."
 **The facts:** An Oxford study of 150 countries found that in high-income
@@ -448,9 +441,9 @@ the Nutrition Facts table on the package.
 
 | Instead of | Try | What the sources say |
 |---|---|---|
-| **Milk** (doodh) for drinking, chai, cereal | **Fortified unsweetened soy beverage** | Unsweetened fortified soy beverage is nutritionally similar to cow's milk. Unsweetened almond, oat and rice beverages are not good sources of protein ([Ontario Student Nutrition Program Guidelines](https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information)). Enriched soy beverage has 4.5 g protein per 100 g, against 3.3 g for 2% milk ([Statistics Canada, from the Canadian Nutrient File](https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/t/6000057-eng.htm)). |
-| **Paneer** | **Firm tofu made with calcium sulfate** | Per 100 g: 17.3 g protein, 1.3 g saturated fat and about 680 mg calcium ([USDA FoodData Central](https://fdc.nal.usda.gov/food-details/172475/nutrients)). Paneer's nutrition varies widely by brand, so compare labels. |
-| **Ghee / butter** (makhan) | **Canola oil** (or other plant oils) | Ghee is about 60% saturated fat ([USDA FoodData Central](https://fdc.nal.usda.gov/food-details/171314/nutrients)). Canola oil has the lowest saturated fat of common cooking oils, about 7% ([Canola Council of Canada](https://canolacouncil.org/about-canola/oil/)). |
+| **Milk** (doodh) for drinking, chai, cereal | **Fortified unsweetened soy beverage** | Unsweetened fortified soy beverage is nutritionally similar to cow's milk. Unsweetened almond, oat and rice beverages are not good sources of protein ([Government of Ontario, Student Nutrition Program Guidelines](https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information)). Canada's Food Guide lists fortified soy beverage as a protein food ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)). |
+| **Paneer** | **Firm tofu** | Canada's Food Guide lists tofu as a protein food ([Canada's Food Guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods)). Compare the labels: saturated fat and calcium vary by brand. |
+| **Ghee / butter** (makhan) | **Canola oil** (or other vegetable oils) | Canada's Food Guide recommends choosing foods with mostly healthy fats, such as vegetable oils, instead of foods with mostly saturated fat, such as high-fat dairy products ([Canada's Food Guide](https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations/eat-variety/choosing-healthy-fats.html)). Canola oil has the lowest saturated fat of common cooking oils ([Canola Council of Canada](https://canolacouncil.org/about-canola/oil/)). |
 | **Dahi / raita / yoghurt** | Plain soy yoghurt | Look for "live/active cultures" on the label. |
 | **Lassi** | Soy yoghurt blended with soy beverage | |
 | **Cheese** | Nutritional yeast, cashew-based cheeses, hummus | Some nutritional yeasts are fortified with vitamin B12 ([NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/)). |
@@ -521,53 +514,49 @@ source to be named]. Ang references were checked against:
 - University of Florida IFAS Extension, EDIS publication IN1006 (honey bee colony winter preparation). https://edis.ifas.ufl.edu/publication/IN1006
 
 ### Environment
-- Ethical Consumer. *Plant-based milk vs dairy: climate impacts* (figures from Our World in Data). https://www.ethicalconsumer.org/food-drink/plant-based-milk-vs-dairy-climate-impacts
-- FAO (2013). Gerber, P. J., et al. *Tackling Climate Change Through Livestock.* Rome. https://www.fao.org/4/i3437e/i3437e.pdf
+- FAO (2013). Gerber, P. J., et al. *Tackling Climate Change Through Livestock.* Rome. https://www.fao.org/3/i3437e/i3437e00.htm
 - FAO (2023). *Pathways towards lower emissions.* Rome. https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/
-- Government of Manitoba. *Agriculture and climate change.* https://gov.mb.ca/agriculture/environment/climate-change/print,agriculture-and-climate-change.html
+- Office of the Auditor General of Canada (2024). *Report 5 — Agriculture and Climate Change Mitigation.* https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-cesd-202404-05-e.html
 - Our World in Data. *Dairy vs. plant-based milk: what are the environmental impacts?* https://ourworldindata.org/environmental-impact-milks
 - Our World in Data. *Greenhouse gas emissions per kilogram of food product.* https://ourworldindata.org/grapher/ghg-per-kg-poore
 - Poore, J., & Nemecek, T. (2018). Reducing food's environmental impacts through producers and consumers. *Science*, 360(6392), 987–992. https://doi.org/10.1126/science.aaq0216
 - Scarborough, P., et al. (2023). Vegans, vegetarians, fish-eaters and meat-eaters in the UK show discrepant environmental impacts. *Nature Food*, 4, 565–574. https://doi.org/10.1038/s43016-023-00795-w
-- The Advocate (2025). Report on Canada's 2025 National Inventory Report. https://qcna.qc.ca/?p=31283
 - The Canadian Encyclopedia. *Lentil.* https://thecanadianencyclopedia.ca/en/article/lentil
 
 ### Health and nutrition
+- Agarwal, G., et al. (2018). Effectiveness of the CANRISK tool in the identification of dysglycemia in a Canadian South Asian population. *Health Promotion and Chronic Disease Prevention in Canada*, 38(7/8), Public Health Agency of Canada. https://www.canada.ca/en/public-health/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-38-no-7-8-2018/canrisk-indentification-dysglycemia-canadian-south-asian-population.html
 - Appleby, P., et al. (2007). Comparative fracture risk in vegetarians and nonvegetarians in EPIC-Oxford. *European Journal of Clinical Nutrition*, 61, 1400–1406. https://www.nature.com/articles/1602659
-- Bouvard, V., et al. (2015). Carcinogenicity of consumption of red and processed meat. *The Lancet Oncology*, 16(16), 1599–1600. https://doi.org/10.1016/S1470-2045(15)00444-1
+- Bouvard, V., Loomis, D., Guyton, K. Z., et al. (2015). Carcinogenicity of consumption of red and processed meat. *The Lancet Oncology*, 16(16), 1599–1600. https://pubmed.ncbi.nlm.nih.gov/26514947/
 - Canola Council of Canada. *Canola Oil.* https://canolacouncil.org/about-canola/oil/
-- CMAJ Open (2014). Review of 50 Canadian studies on cardiovascular disease in South Asian Canadians. https://www.cmajopen.ca/content/2/3/E183
-- Feskanich, D., et al. (2014). Milk consumption during teenage years and risk of hip fractures in older adults. *JAMA Pediatrics*, 168(1), 54–60. https://pubmed.ncbi.nlm.nih.gov/24247817/
+- Feskanich, D., Bischoff-Ferrari, H. A., Frazier, A. L., & Willett, W. C. (2014). Milk consumption during teenage years and risk of hip fractures in older adults. *JAMA Pediatrics*, 168(1), 54–60. https://pubmed.ncbi.nlm.nih.gov/24247817/
+- Government of Ontario (2020). *Student Nutrition Program Nutrition Guidelines, Section 4.* https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information
+- Hallberg, L., et al. (1989). The role of vitamin C in iron absorption. https://pubmed.ncbi.nlm.nih.gov/2507689/
 - Health Canada. Canada's Dietary Guidelines, Section 2. https://www.canada.ca/en/health-canada/services/food-guide/explore/dietary-guidelines/section-2-foods-beverages-that-undermine-healthy-eating.html
+- Health Canada. Canada's Food Guide — *Choosing foods with healthy fats.* https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations/eat-variety/choosing-healthy-fats.html
 - Health Canada. Canada's Food Guide — *Eat protein foods.* https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods
 - Health Canada. Canada's Food Guide — *Advice on vitamin and mineral supplementation.* https://food-guide.canada.ca/en/applying-guidelines/advice-vitamin-mineral-supplementation
 - Heaney, R. P., Weaver, C. M., & Recker, R. R. (1988). Calcium absorbability from spinach. *American Journal of Clinical Nutrition*, 47(4), 707–709. https://pubmed.ncbi.nlm.nih.gov/3354496/
 - Heaney, R. P., & Weaver, C. M. (1990). Calcium absorption from kale. *American Journal of Clinical Nutrition*. https://pubmed.ncbi.nlm.nih.gov/2321572/
+- International Agency for Research on Cancer (2015). *IARC Monographs evaluate consumption of red meat and processed meat.* https://www.iarc.who.int/news-events/iarc-monographs-volume-114-evaluation-of-consumption-of-red-meat-and-processed-meat
 - Mariotti, F., & Gardner, C. D. (2019). Dietary Protein and Amino Acids in Vegetarian Diets—A Review. *Nutrients*, 11(11), 2661. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893534/
 - Melina, V., Craig, W., & Levin, S. (2016). Position of the Academy of Nutrition and Dietetics: Vegetarian Diets. *Journal of the Academy of Nutrition and Dietetics*, 116(12), 1970–1980. https://doi.org/10.1016/j.jand.2016.09.025
 - NIH Office of Dietary Supplements. *Vitamin B12 — Fact Sheet for Consumers.* https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/
-- Government of Ontario (2020). *Student Nutrition Program Nutrition Guidelines, Section 4.* https://www.ontario.ca/document/student-nutrition-program-nutrition-guidelines-2020/section-4-food-and-nutrition-information
 - Pew Research Center (2021). *Religion in India: Religion and food.* https://www.pewresearch.org/religion/2021/06/29/religion-and-food/
-- Public Health Agency of Canada (2018). *Health Promotion and Chronic Disease Prevention in Canada*, 38(7/8). https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-38-no-7-8-2018/hpcdp-a3-38-7-8-eng.pdf
 - Qian, F., et al. (2019). Association between plant-based dietary patterns and risk of type 2 diabetes. *JAMA Internal Medicine*, 179(10), 1335–1344. https://doi.org/10.1001/jamainternmed.2019.2195
+- Rana, A., de Souza, R. J., Kandasamy, S., Lear, S. A., & Anand, S. S. (2014). Cardiovascular risk among South Asians living in Canada: a systematic review and meta-analysis. *CMAJ Open*, 2(3), E183–E191. https://pmc.ncbi.nlm.nih.gov/articles/PMC4183167/
 - Springmann, M., et al. (2021). The global and regional costs of healthy and sustainable dietary patterns. *The Lancet Planetary Health*, 5(11), e797–e807. https://www.ox.ac.uk/news/2021-11-11-sustainable-eating-cheaper-and-healthier-oxford-study
-- Statistics Canada (2007). Nutritional content per 100 g, from Health Canada's Canadian Nutrient File. https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/t/6000057-eng.htm
 - Tong, T. Y. N., et al. (2019). Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up. *BMJ*, 366, l4897. https://doi.org/10.1136/bmj.l4897
-- University of Florida IFAS Extension, EDIS fact sheet FS16700 (vegetarian nutrition, citing the Academy of Nutrition and Dietetics). https://edis.ifas.ufl.edu/pdffiles/FS/FS16700.pdf
-- USDA FoodData Central. Tofu, raw, firm, prepared with calcium sulfate (FDC 172475). https://fdc.nal.usda.gov/food-details/172475/nutrients
-- USDA FoodData Central. Butter, clarified butter (ghee) (FDC 171314). https://fdc.nal.usda.gov/food-details/171314/nutrients
 - Young, V. R., & Pellett, P. L. (1994). Plant proteins in relation to human protein and amino acid nutrition. *American Journal of Clinical Nutrition*, 59(5 Suppl), 1203S–1212S. https://pubmed.ncbi.nlm.nih.gov/8172124/
 
 ### Athletes
-- Clif Bar. *Scott Jurek.* https://www.clifbar.com/athletes/scott-jurek
+- Bausch, D. *The Dairy-Free Olympian.* TrainingPeaks. https://trainingpeaks.com/blog/the-dairy-free-olympian
+- CBC Sports. *Meagan Duhamel's vegan diet helps her train, focus, recover.* https://www.cbc.ca/sports/olympics/winter/figure-skating/meagan-duhamel-s-vegan-diet-helps-her-train-focus-recover-1.3516294
+- ESPN. *Georges Laraque — bio.* https://africa.espn.com/nhl/player/bio/_/id/515/georges-laraque
 - Guinness World Records. *Heaviest yoke carry travelling 10 m (male).* https://guinnessworldrecords.com/world-records/110923-heaviest-yoke-carry-travelling-10-m
+- Publishers Weekly. Review of *Eat and Run* by Scott Jurek. https://www.publishersweekly.com/9780547569659
 - Quartz (2016). *Kendrick Farris, vegan weightlifter.* https://qz.com/758648/kendrick-farris-vegan-weightlifter-rio-olympics-2016
 - Team Canada (Canadian Olympic Committee). *Meagan Duhamel.* https://olympic.ca/team-canada/meagan-duhamel/
 - Team USA. *Dotsie Bausch.* https://www.teamusa.com/profiles/dotsie-bausch
 - Team USA. *Kendrick Farris.* https://www.teamusa.com/profiles/kendrick-farris-811140
 - The Globe and Mail (2009). *Laraque happy to veg out.* https://www.theglobeandmail.com/sports/laraque-happy-to-veg-out/article4285607/
-- The Rich Roll Podcast. *Nimai Delgado.* https://richroll.com/podcast/nimai-delgado-385/
-- VegNews (2012). *Olympic athletes thriving on vegetarian diets.* https://vegnews.com/2012/7/olympic-athletes-thriving-on-vegetarian-diets
-- VegNews (2018). *Vegan figure skater earns Olympic gold medal.* https://vegnews.com/vegan-health-wellness/vegan-figure-skater-earns-olympic-gold-medal
-- Wikipedia. *Georges Laraque.* https://en.wikipedia.org/wiki/Georges_Laraque
 - Wikipedia. *Scott Jurek.* https://en.wikipedia.org/wiki/Scott_Jurek

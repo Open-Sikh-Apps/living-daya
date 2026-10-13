@@ -45,6 +45,23 @@ sure it loads and says what we say. Work through the list below.
 - The US-only longevity figure was replaced by a peer-reviewed review (De Vries & Marcondes 2020: 3–4 years of productive life in high-producing dairy countries). No Canada-specific average lifespan figure was found. AAFC's annual culling rate is the Canadian data point.
 - PDFs that remain in Page 3 are from official bodies: the NFAHW Council, Dairy Farmers of Canada and the Government of BC.
 
+## v6 changes (Pages 5–9, same standards as v5)
+- **Canada's emissions:** the news article (The Advocate) and the Manitoba page were replaced by the **Office of the Auditor General of Canada (2024)**: agriculture was about 10% of national emissions in 2021, up 39% since 1990.
+- **Milk comparison:** the table built on Ethical Consumer's figures was replaced by **Our World in Data's own summary**: about 3× the emissions and about 10× the land per litre, and higher on every measure.
+- **FAO 2013:** the guessed PDF link was replaced by FAO's report landing page.
+- **USDA nutrition figures:** the tofu, ghee and canola numbers were removed, because the USDA pages couldn't be confirmed (only third-party mirrors). The swaps table now cites Canada's Food Guide (protein foods; healthy fats vs saturated fat) and the Canola Council.
+- **Iron:** the UF/IFAS PDF was replaced by Hallberg et al. 1989 (PubMed).
+- **South Asian health:** the PHAC PDF was replaced by the HTML article (Agarwal et al. 2018). CMAJ Open now names its authors (Rana et al. 2014) and links to PubMed Central.
+- **Meat and cancer:** the IARC classification now links to the IARC news page and the PubMed record.
+- **Athletes:**
+  - Meagan Duhamel: VegNews replaced by **CBC Sports**.
+  - Dotsie Bausch: VegNews replaced by her own account on TrainingPeaks.
+  - Georges Laraque: Wikipedia replaced by **ESPN**.
+  - Scott Jurek: Clif Bar replaced by Publishers Weekly, for his memoir.
+  - **Nimai Delgado removed.** No mainstream or primary source was found.
+- **Bee myth:** the Ontario Beekeepers' Association PDF was dropped there. UF/IFAS covers the claim.
+- **Still not ideal:** Scott Jurek's race record cites Wikipedia. The official wser.org results page couldn't be found by search.
+
 ## Sources that are secondary (worth replacing with the primary source if possible)
 | Claim | Current source | Primary source to check |
 |---|---|---|
